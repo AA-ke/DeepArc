@@ -1,0 +1,23 @@
+{
+  "fetch_date": "2025-12-02T17:30:11.412321",
+  "total_papers": 1922,
+  "date_range": {
+    "start": "2024-07-15",
+    "end": "2025-12-01"
+  },
+  "category_stats": {
+    "q-bio.GN": 400,
+    "q-bio.QM": 400,
+    "q-bio.MN": 300,
+    "q-bio.BM": 300,
+    "q-bio.PE": 250,
+    "q-bio.CB": 150,
+    "q-bio.NC": 100,
+    "q-bio.SC": 65,
+    "q-bio.TO": 100
+  },
+  "year_stats": {
+    "2025": 1763,
+    "2024": 159
+  }
+}

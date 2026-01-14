@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-12-02T19:35:34.242104",
+  "original_count": 4611,
+  "final_count": 4461,
+  "removed_count": 150,
+  "dedup_rate": 3.253090435914118,
+  "stages": [
+    {
+      "name": "ID去重",
+      "removed": 0
+    },
+    {
+      "name": "DOI去重",
+      "removed": 115
+    },
+    {
+      "name": "标题去重",
+      "removed": 35
+    }
+  ]
+}

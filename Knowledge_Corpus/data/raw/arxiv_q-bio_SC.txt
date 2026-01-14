@@ -1,0 +1,953 @@
+====================================================================================================
+Paper 1/65
+====================================================================================================
+arXiv ID: 2512.01417v1
+Title: Active Force Dynamics in Red Blood Cells Under Non-Invasive Optical Tweezers
+Authors: Arnau Dorn, Clara Luque-Rioja, Macarena Calero, Diego Herráez-Aguilar, Francisco Monroy, Niccolò Caselli
+Published Date: 2025-12-01
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.BM, q-bio.CB, q-bio.SC
+PDF: https://arxiv.org/pdf/2512.01417v1
+
+Abstract:
+Red blood cells (RBCs) sustain mechanical stresses associated with microcirculatory flow through ATP-driven plasma membrane flickering. This is an active phenomenon driven by motor proteins that regulate interactions between the spectrin cytoskeleton and the lipid bilayer; it is manifested in RBC shape fluctuations reflecting the cell's mechanical and metabolic state. Yet, direct quantification of the forces and energetic costs underlying this non-equilibrium behavior remains challenging due to the invasiveness of existing techniques. Here, a minimally invasive method that combines bead-free, low-power optical tweezers with high-speed video microscopy was employed to track local membrane forces and displacements in single RBCs during the same time window. This independent dual-channel measurement enabled the construction of a mechano-dynamic phase space for RBCs under different chemical treatments, that allowed for differentiating between metabolic and structural states based on their fluctuation-force signatures. Quantification of mechanical work during flickering demonstrated that membrane softening enhanced fluctuations while elevating energy dissipation. The proposed optical tweezers methodology provides a robust framework for mapping the active mechanics of living cells, enabling precise probing of cellular physiology and detection of biomechanical dysfunction in diseases.
+
+====================================================================================================
+Paper 2/65
+====================================================================================================
+arXiv ID: 2511.23344v1
+Title: A theory for coexistence and selection of branched actin networks in a shared and finite pool of monomers
+Authors: Valentin Wössner, Falko Ziebert, Ulrich S. Schwarz
+Published Date: 2025-11-28
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, cond-mat.soft, physics.bio-ph
+PDF: https://arxiv.org/pdf/2511.23344v1
+Comment: Revtex, 19 pages, 8 figures
+
+Abstract:
+Cellular actin structures are continuously turned over while keeping similar sizes. Since they all compete for a shared pool of actin monomers, the question arises how they can coexist in these dynamic steady states. Recently, the coexistence of branched actin networks with different densities growing in a shared and finite pool of purified proteins has been demonstrated in a biomimetic bead assay. However, theoretical work in the context of organelle size regulation has mainly been focused on linear architectures, such as single filaments and bundles, and thus is not able to explain this observation. Here we show theoretically that the local depletion of actin monomers caused by the growth of a branched network naturally gives rise to a negative feedback loop between network density and growth rate, and that this competition is captured by one central equation. A comprehensive bifurcation analysis shows that the theory leads to well-defined steady states even in the case of multiple networks sharing the same pool of monomers, without any need for specific molecular processes. Under increasing competition strength, coexistence is replaced by selection. We also show that our theory is in excellent agreement with spatiotemporal simulations implemented in a finite element framework. In summary, our work suggests that local monomer depletion is the decisive and universal factor controlling growth of branched actin networks.
+
+====================================================================================================
+Paper 3/65
+====================================================================================================
+arXiv ID: 2511.20339v1
+Title: Plumbing Analog of Molecular Computation
+Authors: Roger D. Jones, Achille Giacometti, Alan M. Jones
+Published Date: 2025-11-25
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2511.20339v1
+Comment: 12 pages, 6 figures, Proceedings of ICCABS 2026, Springer Nature
+
+Abstract:
+Biological information processing often arises from mesoscopic molecular systems operating far from equilibrium, yet their complexity can make the underlying principles difficult to visualize. In this study, we introduce a macroscopic hydraulic model that serves as an intuitive analog for the molecular switching behavior exhibited by G protein-coupled receptors (GPCRs) on the cell membrane. The hydraulic system reproduces the essential structural and functional features of the molecular switch, including the presence of up to three distinct steady state solutions, the characteristic shapes of these solutions, and the physical interpretation of the control parameters governing the behavior of the system. By mapping water flow, energy barrier height, and siphoning dynamics onto biochemical flux, activation energy, and state transitions, the model provides a transparent representation of the mechanisms that regulate GPCR activation. The correspondence between the hydraulic analog and the molecular system suggests several experimentally testable hypotheses about GPCR function. In particular, the model highlights the central role of energy flux, driven by imbalances in ATP/ADP or GTP/GDP concentrations, in activating the molecular switch and maintaining nonequilibrium signaling states. It also identifies two key parameters that primarily determine switch behavior: the energy difference between the active and inactive states and the effective height of the energy barrier that separates them. These results imply that GPCR signaling dynamics may be governed by generalizable physical principles rather than by biochemical details alone. The hydraulic framework thus offers a tractable platform for interpreting complex molecular behavior and may aid in the development of predictive models of GPCR function in diverse physiological contexts.
+
+====================================================================================================
+Paper 4/65
+====================================================================================================
+arXiv ID: 2511.15599v1
+Title: Kinetic and mean-field modeling of muscular dystrophies
+Authors: Tommaso Lorenzi, Horacio Tettamanti, Mattia Zanella
+Published Date: 2025-11-19
+Primary Category: math.AP
+All Categories: math.AP, cond-mat.stat-mech, q-bio.PE, q-bio.SC
+PDF: https://arxiv.org/pdf/2511.15599v1
+
+Abstract:
+We present a new class of models for assessing the cell dynamics characterising muscular dystrophies. The proposed approach comprises a system of integro-differential equations for the statistical distributions, over a large patient cohort, of the densities of muscle fibers and immune cells implicated in muscle inflammation, degeneration, and regeneration, which underpin disease development. Considering an appropriately scaled version of this model, we formally derive, as the corresponding mean-field limit, a system of Fokker-Planck equations, from which we subsequently derive, as a macroscopic model counterpart, a system of differential equations for the mean densities of muscle and immune cells in the cohort of patients and the related variances. Then, we study long-time asymptotics for the mean-field model by determining the quasi-equilibrium cell distribution functions, which are in the form of probability density functions of inverse Gamma distributions, and proving the long-time convergence to such quasi-equilibrium distributions. The analytical results obtained are illustrated by means of a sample of results of numerical simulations. The modeling approach presented here has the potential to offer new insights into the balance between degeneration and regeneration mechanisms in the progression of muscular dystrophies, and provides a basis for future extensions, including the modeling of therapeutic interventions.
+
+====================================================================================================
+Paper 5/65
+====================================================================================================
+arXiv ID: 2511.11986v2
+Title: Comment on "Repair of DNA Double-Strand Breaks Leaves Heritable Impairment to Genome Function"
+Authors: Yi Wang, Shu-Feng Zhou
+Published Date: 2025-11-15
+Primary Category: q-bio.CB
+All Categories: q-bio.CB, q-bio.SC
+PDF: https://arxiv.org/pdf/2511.11986v2
+Comment: arXiv admin note: This submission has been withdrawn due to violation of arXiv policies for acceptable submissions
+
+Abstract:
+Bantele and colleagues recently reported that repair of a single CRISPR/Cas9-induced DNA double-strand break (DSB) in the c-MYC topologically associated domain leads to a persistent depletion of chromatin interactions and long-term transcriptional attenuation across multiple generations of human cells. They interpret this observation as evidence for a previously unrecognized principle--"chromatin fatigue"--in which DSB repair generates a stable architectural defect that acts as a heritable impairment to genome function. Such an idea, if correct, would carry profound implications for genome biology, epigenetic inheritance, cancer evolution, aging, and the safety of therapeutic genome editing. However, our detailed reassessment of the experimental design, underlying assumptions, and data interpretation reveals that the evidence provided is inadequate to support these sweeping conclusions. Instead, the observed outcomes are more plausibly explained by a combination of Cas9 persistence, off-target DNA damage, repair-factor retention, MYC enhancer plasticity, and the well-documented genomic instability of HeLa cells. The study does not demonstrate mechanistic causality, does not exclude simpler explanations, and does not provide data consistent with true chromatin memory or heritable architectural change. Moreover, its statistical inferences are based on noisy measurements that fall within expected variability of unstable oncogenic loci. Here, we present a comprehensive critical analysis showing that the proposed model of chromatin fatigue is unsupported by the available evidence. We offer a corrected interpretation in which the chromatin landscape experiences a temporary, repair-associated perturbation that resolves without leaving enduring or heritable impairment.
+
+====================================================================================================
+Paper 6/65
+====================================================================================================
+arXiv ID: 2511.19444v2
+Title: Comment on "Direct Targeting and Regulation of RNA Polymerase II by Cell Signaling Kinases"
+Authors: Jia Li, Shu-Feng Zhou
+Published Date: 2025-11-15
+Primary Category: q-bio.MN
+All Categories: q-bio.MN, q-bio.CB, q-bio.SC
+PDF: https://arxiv.org/pdf/2511.19444v2
+Comment: arXiv admin note: This submission has been withdrawn due to violation of arXiv policies for acceptable submissions
+
+Abstract:
+Dabas et al. in Science 2025 report that approximately 117 human kinases directly phosphorylate the C-terminal domain (CTD) of RNA polymerase II (Pol II), proposing an extensive, direct biochemical bridge between signal transduction and transcriptional control. Such a sweeping claim that one-fourth of the human kinome directly targets the CTD represents a profound revision of canonical transcriptional biology. However, the evidence presented relies primarily on in vitro kinase assays using short CTD peptides, sparse in-cell validation, and mechanistically incomplete models of nuclear trafficking, chromatin targeting, structural compatibility, and catalytic specificity. In this extended critique, we demonstrate that the conclusions of this study are not supported by current biochemical, structural, cell biological, or genomic data. We outline severe shortcomings in assay design, lack of quantitative kinetics, incompatibilities with known Pol II structural constraints, unsupported assumptions about nuclear localization, inappropriate extension to "direct-at-gene" mechanisms, absence of global transcriptional effects, failure to align with the essential role of canonical CDKs, and missing transparency in dataset reporting. We conclude that the central claims of the study are premature and contradicted by decades of established transcriptional research. Substantial new evidence is required before revising the mechanistic model of Pol II CTD regulation.
+
+====================================================================================================
+Paper 7/65
+====================================================================================================
+arXiv ID: 2511.10184v1
+Title: Theoretical Analysis of Resource-Induced Phase Transitions in Estimation Strategies
+Authors: Takehiro Tottori, Tetsuya J. Kobayashi
+Published Date: 2025-11-13
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, math.OC, q-bio.NC, q-bio.SC
+PDF: https://arxiv.org/pdf/2511.10184v1
+
+Abstract:
+Organisms adapt to volatile environments by integrating sensory information with internal memory, yet their information processing is constrained by resource limitations. Such limitations can fundamentally alter optimal estimation strategies in biological systems. For example, recent experiments suggest that organisms exhibit nonmonotonic phase transitions between memoryless and memory-based estimation strategies depending on sensory reliability. However, an analytical understanding of these resource-induced phase transitions is still missing. This Letter presents an analytical characterization of resource-induced phase transitions in optimal estimation strategies. Our result identifies the conditions under which resource limitations alter estimation strategies and analytically reveals the mechanism underlying the emergence of discontinuous, nonmonotonic, and scaling behaviors. These results provide a theoretical foundation for understanding how limited resources shape information processing in biological systems.
+
+====================================================================================================
+Paper 8/65
+====================================================================================================
+arXiv ID: 2511.09928v1
+Title: mRNA-protein assembly reduces fluctuations in a system with bursty transcription
+Authors: Xinke Lyu, Alex Mayer, Grace McLaughlin, Amy Gladfelter, Marcus Roper
+Published Date: 2025-11-13
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2511.09928v1
+
+Abstract:
+mRNA-protein assemblies play a fundamental role in forming membraneless compartments within cells, whose functions may include activating, inhibiting, and localizing reactions. Recruitment of proteins into droplets can diminish cell to cell variability in protein abundance. However, the extent to which mRNA-protein assemblies may also buffer noise arising from transcription is not understood. Complicating study of this question is that models of kinetics typically treat this as a phase separation process, when mRNA-protein assemblies can contain as few as 2 mRNA transcripts, far below the thermodynamic thresholds for phase separation. Here, through stochastic simulations and asymptotic analysis, we quantify noise suppression by mRNA-protein assemblies as a function of gene expression kinetic parameters, and show that assemblies formed from just a handful of mRNAs effectively regulate transcript abundances and suppress fluctuations. We place particular emphasis on how this mechanism can facilitate regulated transcription by reducing noise even in the context of infrequent bursts of transcription. We investigate two biologically relevant models in which mRNA assembly acts to either "buffer" noise by storing mRNA in inert droplets, or "filter" assembled mRNAs by accelerating their decay, and quantify expression noise as a function of kinetic parameters. In either case, the most controlled expression occurs when bursts produce mRNAs close to the assembly threshold, which we find to be broadly consistent with observations of an RNP-droplet forming cyclin in multinucleate \textit{Ashbya gossypii} cells.
+
+====================================================================================================
+Paper 9/65
+====================================================================================================
+arXiv ID: 2511.09295v1
+Title: Simulating Mono-and Multi-Protein Phosphorylation within Nanoclusters
+Authors: Olivier Destaing, Bertrand Fourcade
+Published Date: 2025-11-12
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2511.09295v1
+Comment: Physical Review E : Statistical, Nonlinear, and Soft Matter Physics, In press
+
+Abstract:
+Protein nanoclustering is a characteristic feature of their activated state and is essential for forming numerous subcellular structures. The formation of these nanoclusters is highly dependent on a series of post-translational modifications, such as mono-and multi-phosphorylation and dephosphorylation of residues. We theoretically simulate how a protein can be either mono-or multi-phosphorylated on several residues in functional nanoclusters, depending on effective biophysical parameters (diffusion, dwell time, etc.). Moving beyond a binary view of phosphorylation, this approach highlights the interplay between mono-and multi-phosphorylation, the cooperative effects generally associated with multi-phosphorylation networks, and stresses the role of phosphatases in transforming graded phosphorylation signals into almost switch-like responses. The results are discussed in light of experiments that probe the distribution of phospho-residues.
+
+====================================================================================================
+Paper 10/65
+====================================================================================================
+arXiv ID: 2510.26949v1
+Title: Protein-protein interaction networks can be highly sensitive to the membrane phase transition
+Authors: Taylor Schaffner, Benjamin B. Machta
+Published Date: 2025-10-30
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, cond-mat.stat-mech, q-bio.SC
+PDF: https://arxiv.org/pdf/2510.26949v1
+
+Abstract:
+Many protein-protein interaction (PPI) networks take place in the fluid yet structured plasma membrane. Lipid domains, sometimes termed rafts, have been implicated in the functioning of various membrane-bound signaling processes. Here, we present a model and a Monte Carlo simulation framework to investigate how changes in the domain size that arise from perturbations to membrane criticality can lead to changes in the rate of interactions among components, leading to altered outcomes. For simple PPI networks, we show that the activity can be highly sensitive to thermodynamic parameters near the critical point of the membrane phase transition. When protein-protein interactions change the partitioning of some components, our system sometimes forms out of equilibrium domains we term pockets, driven by a mixture of thermodynamic interactions and kinetic sorting. More generally, we predict that near the critical point many different PPI networks will have their outcomes depend sensitively on perturbations that influence critical behavior.
+
+====================================================================================================
+Paper 11/65
+====================================================================================================
+arXiv ID: 2510.26357v1
+Title: Capillarity Reveals the Role of Capsid Geometry in HIV Nuclear Translocation
+Authors: Alex W. Brown, Sami C. Al-Izzi, Jack L. Parker, Sophie Hertel, David A. Jacques, Halim Kusumaatmaja, Richard G. Morris
+Published Date: 2025-10-30
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, cond-mat.soft, q-bio.SC
+PDF: https://arxiv.org/pdf/2510.26357v1
+Comment: 11 pages main text, 6 figures + SI
+
+Abstract:
+The protective capsid encasing the genetic material of Human Immunodeficiency Virus (HIV) has been shown to traverse the nuclear pore complex (NPC) intact, despite exceeding the passive diffusion threshold by over three orders of magnitude. This remarkable feat is attributed to the properties of the capsid surface, which confer solubility within the NPC's phase-separated, condensate-like barrier. In this context, we apply the classical framework of wetting and capillarity -- integrating analytical methods with sharp- and diffuse-interface numerical simulations -- to elucidate the physical underpinnings of HIV nuclear entry. Our analysis captures several key phenomena: the reorientation of incoming capsids due to torques arising from asymmetric capillary forces; the role of confinement in limiting capsid penetration depths; the classification of translocation mechanics according to changes in topology and interfacial area; and the influence of (spontaneous) rotational symmetry-breaking on energetics. These effects are all shown to depend critically on capsid geometry, arguing for a physical basis for HIV's characteristic capsid shape.
+
+====================================================================================================
+Paper 12/65
+====================================================================================================
+arXiv ID: 2510.25359v2
+Title: Thermodynamics of Biological Switches
+Authors: Roger D. Jones, Achille Giacometti, Alan M. Jones
+Published Date: 2025-10-29
+Primary Category: cond-mat.stat-mech
+All Categories: cond-mat.stat-mech, q-bio.SC
+PDF: https://arxiv.org/pdf/2510.25359v2
+Comment: One figure. Proceedings of Wivace2025. 10 pages
+
+Abstract:
+We derive a formulation of the First Law of nonequilibrium thermodynamics for biological information-processing systems by partitioning entropy in the Second Law into microscopic and mesoscopic components and by assuming that natural selection promotes optimal information processing and transmission. The resulting framework demonstrates how mesoscopic information-based subsystems can attain nonequilibrium steady states (NESS) sustained by external energy and entropy fluxes, such as those generated by ATP/ADP imbalances in vivo. Moreover, mesoscopic systems may reach NESS before microscopic subsystems, leading to ordered structures in entropy flow analogous to eddies in a moving stream.
+
+====================================================================================================
+Paper 13/65
+====================================================================================================
+arXiv ID: 2510.22179v1
+Title: Beyond Autophagy: VPS39 Deficiency Triggers Migrasome-Driven Stress Adaptation Revealed by Super-Resolution Imaging
+Authors: Xuelei Pang, Weiyun Sun, Ning Jing, Wenwen Gong, Cuifang Kuang, Xu Liu, Hanbing Li, Yu-Hui Zhang, Yubing Han
+Published Date: 2025-10-25
+Primary Category: q-bio.CB
+All Categories: q-bio.CB, q-bio.BM, q-bio.SC
+PDF: https://arxiv.org/pdf/2510.22179v1
+
+Abstract:
+Autophagy and migrasome formation constitute critical cellular mechanisms for maintaining cellular homeostasis, however, their potential compensatory interplay remains poorly understood. In this study, we identify VPS39, a core component of the HOPS complex, as a molecular switch coordinating these processes. Genetic ablation of VPS39 not only impairs autophagic flux but also triggers cell migration through RhoA/Rac1 GTPases upregulation, consequently facilitating migrasome formation. Using super-resolution microscopy, we further demonstrate that migrasomes serve as an alternative disposal route for damaged mitochondria during VPS39-induced autophagy impairment, revealing a novel stress adaptation mechanism. Our work establishes a previously unrecognized autophagy-migrasome axis and provides direct visual evidence of organelle quality control via migrasomal extrusion. These findings position VPS39-regulated pathway switching as a potential therapeutic strategy for neurodegenerative diseases characterized by autophagy dysfunction.
+
+====================================================================================================
+Paper 14/65
+====================================================================================================
+arXiv ID: 2510.21567v1
+Title: Vesicle Translocation into Closed Constrictions as a Function of Molecular Motor Parameters
+Authors: Youngmin Park, Thomas G. Fai
+Published Date: 2025-10-24
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2510.21567v1
+Comment: 29 pages, 11 figures
+
+Abstract:
+We study the dynamics of molecular motor-driven transport into dendritic spines, which are bulbous intracellular compartments in neurons that play a key role in transmitting signals between neurons. We further develop a stochastic model of vesicle transport in [Park, Singh, and Fai, SIAM J. Appl. Math. 82.3 (2022), pp. 793--820] by showing that second-order moments may be neglected. We exploit this property to significantly simplify the model and confirm through numerical simulations that the simplification retains key behaviors of the original agent-based myosin model of vesicle transport. We use the simplified model to explore the vesicle translocation time and probability through dendritic spines as a function of molecular motor parameters, which was previously not practically possible.   Relevance to Life Sciences: We find that thinner dendritic spine geometry can greatly reduce the probability of vesicle translocation to the post-synaptic density. The cell may alter molecular motor parameters to compensate, but only to a point. These findings are consistent with the biological literature, where brain disorders are often associated with an excess of long, thin dendritic spines.   Mathematical Content: We use a moment-generating function to deduce that second-order moments in motor attachment times may be neglected, and therefore the first-order moment is a sufficient approximation. Using only the mean attachment times and neglecting the variance yields a tractable master equation from which vesicle mean first passage times may be computed directly as a function of geometry and molecular motor parameters.
+
+====================================================================================================
+Paper 15/65
+====================================================================================================
+arXiv ID: 2510.06781v1
+Title: The Epigenetic Tapestry: A Review of DNA Methylation and Non-Coding RNA's Interplay with Genetic Threads, Weaving a Network Impacting Gene Expression and Disease Manifestations
+Authors: Yu-Li He, Youshin Loh
+Published Date: 2025-10-08
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2510.06781v1
+Comment: 31 pages, unaffiliated review article
+
+Abstract:
+The emerging field of epigenetics has recently unveiled a dynamic landscape in which gene expression is not determined solely by genetic sequences but also by intricate regulatory mechanisms. This review examines the interactions between these regulatory mechanisms, including DNA methylation and non-coding RNAs (ncRNAs), that orchestrate gene expression fine-tuning for cellular homeostasis and the pathogenesis of a multitude of diseases. We explore long non-coding RNAs (lncRNAs) such as telomeric repeat-containing RNA (TERRA) and Fendrr, highlighting their role in protein regulation to ensure proper gene activation or silencing. Additionally, we explain the therapeutic potential of brain-derived neurotrophic factor (BDNF)-related microRNA 132, which has shown promise in treating chronic illnesses by restoring BDNF levels. Finally, this review covers the role of DNA methyltransferases and ncRNAs in cancer, focusing on how lncRNAs contribute to X chromosome inactivation and interact with chromatin-modifying complexes and DNA methyltransferase inhibitors to reduce cancer cell aggressiveness. By amalgamating the wide array of research in this field, we aim to provide glimpses into the complex entangling of genetics and environment as they control gene expressions.
+
+====================================================================================================
+Paper 16/65
+====================================================================================================
+arXiv ID: 2510.05920v1
+Title: Deciphering the Role of Acetate in Metabolic Adaptation and Osimertinib Resistance in Non-Small Cell Lung Cancer
+Authors: Giorgia Maroni, Eva Cabrera San Millan, Beatrice Campanella, Massimo Onor, Giovanni Cercignani, Beatrice Muscatello, Giulia Braccini, Raffaella Mercatelli, Alice Chiodi, Ettore Mosca, Elena Levantini, Emilia Bramanti
+Published Date: 2025-10-07
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, q-bio.CB
+PDF: https://arxiv.org/pdf/2510.05920v1
+Comment: 28 pages, 3 figures, 1 scheme, 2 tables. Prepared for submission to Drug Resistance Updates (Elsevier)
+
+Abstract:
+Aims. Resistance to targeted therapies remains a major challenge in EGFR-mutant non-small cell lung cancer (NSCLC). Here, we describe a novel metabolic adaptation in osimertinib-resistant cells characterized by elevated acetate levels and activation of an unconventional pyruvate-acetaldehyde-acetate (PAA) shunt. Methods. Integrated transcriptomic, exometabolomic, and functional analyses reveal suppression of canonical metabolic pathways and upregulation of ALDH2 and ALDH7A1, that mediate the NADP+-dependent oxidation of acetaldehyde to acetate, generating NADPH. Results. This shift generates reducing power essential for biosynthesis and redox balance under conditions of oxidative pentose phosphate inhibition. These metabolic changes promote endurance in resistant cells and rewire the interplay between glycolysis, the pentose phosphate pathway, and the tricarboxylic acid cycle, offering a de novo bypass for anaplerosis and bioenergetics. Systematic metabolite profiling revealed distinct transcriptomic and metabolic signatures distinguishing resistant from drug sensitive parental cells. Conclusions. Together, these findings depict a unique, resistance-driven adaptive metabolic shift and uncover potential therapeutic vulnerabilities in osimertinib-resistant NSCLC.
+
+====================================================================================================
+Paper 17/65
+====================================================================================================
+arXiv ID: 2509.24926v1
+Title: Bifurcations and multistability in inducible three-gene toggle switch networks
+Authors: Rebecca J. Rousseau, Rob Phillips
+Published Date: 2025-09-29
+Primary Category: q-bio.MN
+All Categories: q-bio.MN, physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2509.24926v1
+Comment: 32 pages, 23 figures
+
+Abstract:
+Control of transcription presides over a vast array of biological processes including through gene regulatory circuits that exhibit multistability. Two- and three-gene network motifs are often found to be critical parts of the repertoire of metabolic and developmental pathways. Theoretical models of these circuits, however, typically vary parameters such as dissociation constants, transcription rates, and degradation rates without specifying precisely how these parameters are controlled biologically. In this paper, we examine the role of effector molecules, which can alter the concentrations of the active transcription factors that control regulation, and are ubiquitous to regulatory processes across biological settings. We specifically consider allosteric regulation in the context of extending the standard bistable switch to three-gene networks, and explore the rich multistable dynamics exhibited in these architectures as a function of effector concentrations. We then study how the conditions required for tristability and more complex dynamics, and the bifurcations in dynamic phase space upon tuning effector concentrations, evolve under various interpretations of regulatory circuit mechanics, the underlying activity of inducers, and perturbations thereof. Notably, the biological mechanism by which we model effector control over dual-function proteins transforms not only the phenotypic trend of dynamic tuning but also the set of available dynamic regimes. In this way, we determine key parameters and regulatory features that drive phenotypic decisions, and offer an experimentally tunable structure for encoding inducible multistable behavior arising from both single and dual-function allosteric transcription factors.
+
+====================================================================================================
+Paper 18/65
+====================================================================================================
+arXiv ID: 2509.23445v1
+Title: Uncertainty Quantification of Bacterial Microcompartment Permeability
+Authors: Andre Archer, Brett J. Palmero, Charlotte Abrahamson, Carolyn E. Mills, Nolan W. Kennedy, Danielle Tullman-Ercek, Niall M. Mangan
+Published Date: 2025-09-27
+Primary Category: q-bio.QM
+All Categories: q-bio.QM, q-bio.SC
+PDF: https://arxiv.org/pdf/2509.23445v1
+Comment: 30 pages, 7 figures
+
+Abstract:
+$\textit{Salmonella}$ expresses bacterial microcompartments (MCPs) upon 1,2-propanediol exposure. MCPs are nanoscale protein-bound shells that encase enzymes for the cofactor-dependent 1,2-propanediol metabolism. They are hypothesized to limit exposure to the toxic intermediate, propionaldehyde, decrease cofactor involvement in competing reactions, and enhance flux. We construct a mass-action mathematical model of purified MCPs and calibrate parameters to measured metabolite concentrations. We constrain mass-action kinetic parameters to previously estimated Michaelis-Menten parameters. We identified two distinct fits with different dynamics in the pathway product, propionate, but similar goodness of fit. Across fits, we inferred that the MCP 1,2-propanediol and propionaldehyde permeability should be greater than $10^{-6}$ and $10^{-8}$ m/s, respectively. Our results identify parameter ranges consistent with prevailing theories that MCPs impose preferential diffusion to 1,2-propanediol over propionaldehyde, and sequester toxic propionaldehyde away from the cell cytosol. The bimodality of the posterior distribution arises from bimodality in the estimated coenzyme-A (CoA) permeability and inhibition rates. The MCP permeability to CoA was inferred to be either less than $10^{-8.8}$ m/s or greater than $10^{-7.3}$ m/s. In a high CoA permeability environment with low rates of CoA inhibition, enzymes produced metabolites by recycling (NAD+)/(NADH). In a low CoA permeability environment with high rates of CoA inhibition, enzymes required external NAD+/H to produce metabolites. Dynamics are consistent with prevailing hypotheses about MCP function to sequester toxic propionaldehyde, and additional collection of data points between 6 and 24 hours or characterization of enzyme inhibition rates could further reduce uncertainty and provide better permeability estimates.
+
+====================================================================================================
+Paper 19/65
+====================================================================================================
+arXiv ID: 2509.12409v1
+Title: An Assembly-Line Mechanism for In-Vitro Encapsulation of Fragmented Cargo in Virus-Like Particles
+Authors: Ayesha Amjad, Irina Tsvetkova, Lena G. Lowry, David Gene Morgan, Roya Zandi, Paul van der Schoot, Bogdan Dragnea
+Published Date: 2025-09-15
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, q-bio.QM, q-bio.SC
+PDF: https://arxiv.org/pdf/2509.12409v1
+
+Abstract:
+The ability of virus shells to encapsulate a wide range of functional cargoes, especially multiple cargoes - siRNAs, enzymes, and chromophores - has made them an essential tool in biotechnology for advancing drug delivery applications and developing innovative new materials. Here we present a mechanistic study of the processes and pathways that lead to multiple cargo encapsulation in the co-assembly of virus shell proteins with ligand-coated nanoparticles. Based on the structural identification of different intermediates, enabled by the contrast in electron microscopy provided by the metal nanoparticles that play the cargo role, we find that multiple cargo encapsulation occurs by self-assembly via a specific ``assembly line'' pathway that is different from previously described \emph{in vitro} assembly mechanisms of virus-like particles (VLP). The emerging model explains observations that are potentially important for delivery applications, for instance, the pronounced nanoparticle size selectivity.
+
+====================================================================================================
+Paper 20/65
+====================================================================================================
+arXiv ID: 2509.11327v3
+Title: Learning to Equalize: Data-Driven Frequency-Domain Signal Recovery in Molecular Communications
+Authors: Cheng Xiang, Yu Huang, Miaowen Wen, Weiqiang Tan, Chan-Byoung Chae
+Published Date: 2025-09-14
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, cs.IT
+PDF: https://arxiv.org/pdf/2509.11327v3
+
+Abstract:
+In molecular communications (MC), inter-symbol interference (ISI) and noise are key factors that degrade communication reliability. Although time-domain equalization can effectively mitigate these effects, it often entails high computational complexity concerning the channel memory. In contrast, frequency-domain equalization (FDE) offers greater computational efficiency but typically requires prior knowledge of the channel model. To address this limitation, this letter proposes FDE techniques based on long short-term memory (LSTM) neural networks, enabling temporal correlation modeling in MC channels to improve ISI and noise suppression. To eliminate the reliance on prior channel information in conventional FDE methods, a supervised training strategy is employed for channel-adaptive equalization. Simulation results demonstrate that the proposed LSTM-FDE significantly reduces the bit error rate compared to traditional FDE and feedforward neural network-based equalizers. This performance gain is attributed to the LSTM's temporal modeling capabilities, which enhance noise suppression and accelerate model convergence, while maintaining comparable computational efficiency.
+
+====================================================================================================
+Paper 21/65
+====================================================================================================
+arXiv ID: 2509.09521v1
+Title: Coarsening model of chromosomal crossover placement
+Authors: Marcel Ernst, Riccardo Rossetto, David Zwicker
+Published Date: 2025-09-11
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, cond-mat.soft, q-bio.SC
+PDF: https://arxiv.org/pdf/2509.09521v1
+Comment: 11 pages, 6 figures, 24 pages of supporting information
+
+Abstract:
+Chromosomal crossovers play a crucial role in meiotic cell division, as they ensure proper chromosome segregation and increase genetic variability. Experiments have consistently revealed two key observations across species: (i) the number of crossovers per chromosome is typically small, but at least one, and (ii) crossovers on the same chromosome are subject to interference, i.e., they are more separated than expected by chance. These observations can be explained by a recently proposed coarsening model, where the dynamics of droplets associated with chromosomes designate crossovers. We provide a comprehensive analysis of the coarsening model, which we also extend by including material exchanges between droplets, the synaptonemal complex, and the nucleoplasm. We derive scaling laws for the crossover count, which allows us to analyze data across species. Moreover, our model provides a coherent explanation of experimental data across mutants, including the wild-type and zyp1-mutant of A. thaliana. Consequently, the extended coarsening model provides a solid framework for investigating the underlying mechanisms of crossover placement.
+
+====================================================================================================
+Paper 22/65
+====================================================================================================
+arXiv ID: 2509.04850v1
+Title: Determining a parabolic-elliptic-elliptic system by boundary observation of its non-negative solutions under chemotaxis background
+Authors: Yuhan Li, Hongyu Liu, Catharine W. K. Lo
+Published Date: 2025-09-05
+Primary Category: math.AP
+All Categories: math.AP, q-bio.CB, q-bio.SC
+PDF: https://arxiv.org/pdf/2509.04850v1
+Comment: 24 pages keywords: nonlinear parabolic-elliptic-elliptic system, chemotaxis, mixed-type equations, unique identifiability, simultaneous recovery, multiplicative separable form
+
+Abstract:
+This paper addresses a profoundly challenging inverse problem that has remained largely unexplored due to its mathematical complexity: the unique identification of all unknown coefficients in a coupled nonlinear system of mixed parabolic-elliptic-elliptic type using only boundary measurements. The system models attraction-repulsion chemotaxis--an advanced mathematical biology framework for studying sophisticated cellular processes--yet despite its significant practical importance, the corresponding inverse problem has never been investigated, representing a true frontier in the field. The mixed-type nature of this system introduces significant theoretical difficulties that render conventional methodologies inadequate, demanding fundamental extensions beyond existing techniques developed for simpler, purely parabolic models. Technically, the problem presents formidable obstacles: the coupling between parabolic and elliptic components creates inherent analytical complications, while the nonlinear structure resists standard approaches. From an applied perspective, the biological relevance adds another layer of complexity, as solutions must maintain physical interpretability through non-negativity constraints. Our work provides a complete theoretical framework for this challenging problem, establishing rigorous unique identifiability results that create a one-to-one correspondence between boundary data and the model's parameters. We demonstrate the power of our general theory through a central biological application: the full parameter recovery for an attraction-repulsion chemotaxis model with logistic growth, thus opening new avenues for quantitative analysis in mathematical biology.
+
+====================================================================================================
+Paper 23/65
+====================================================================================================
+arXiv ID: 2508.16398v2
+Title: Multiscale Growth Kinetics of Model Biomolecular Condensates Under Passive and Active Conditions
+Authors: Tamizhmalar Sundararajan, Matteo Boccalini, Roméo Suss, Sandrine Mariot, Emerson R. Da Silva, Fernando C. Giacomelli, Austin Hubley, Theyencheri Narayanan, Alessandro Barducci, Guillaume Tresset
+Published Date: 2025-08-22
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, cond-mat.soft, q-bio.BM, q-bio.SC
+PDF: https://arxiv.org/pdf/2508.16398v2
+
+Abstract:
+Living cells exhibit a complex organization comprising numerous compartments, among which are RNA- and protein-rich membraneless, liquid-like organelles known as biomolecular condensates. Energy-consuming processes regulate their formation and dissolution, with (de-)phosphorylation by specific enzymes being among the most commonly involved reactions. By employing a model system consisting of a phosphorylatable peptide and homopolymeric RNA, we elucidate how enzymatic activity modulates the growth kinetics and alters the local structure of biomolecular condensates. Under passive condition, time-resolved ultra-small-angle X-ray scattering with synchrotron source reveals a nucleation-driven coalescence mechanism maintained over four decades in time, similar to the coarsening of simple binary fluid mixtures. Coarse-grained molecular dynamics simulations show that peptide-decorated RNA chains assembled shortly after mixing constitute the relevant subunits. In contrast, actively-formed condensates initially display a local mass fractal structure, which gradually matures upon enzymatic activity before condensates undergo coalescence. Both types of condensate eventually reach a steady state but fluorescence recovery after photobleaching indicates a peptide diffusivity twice higher in actively-formed condensates consistent with their loosely-packed local structure. We expect multiscale, integrative approaches implemented with model systems to link effectively the functional properties of membraneless organelles to their formation and dissolution kinetics as regulated by cellular active processes.
+
+====================================================================================================
+Paper 24/65
+====================================================================================================
+arXiv ID: 2508.15438v1
+Title: Limitations to Chemotactic Concentration Sensing during $Ca^{2+}$ Signaling
+Authors: Swoyam Srirupa, Pradeep, Vaibhav Wasnik
+Published Date: 2025-08-21
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2508.15438v1
+
+Abstract:
+Living cells sense noisy biochemical signals crucial for survival, yet models incorporating intracellular signaling are limited. This study examines how cells sense chemotactic concentrations through phosphorylation readouts in Ca2+ signaling, which is ubiquitous in most eukaryotic cells. Using stochastic simulations and analytical calculations we find that concentration sensing remains robust to variations in cytoplasmic reaction rates once they exceed a certain value, suggesting a potential evolutionary advantage that allows cells to optimize other signaling tasks without compromising concentration sensing accuracy. Our analysis demonstrates theoretically that Dictyostelium is capable of sensing very low concentrations of cyclic adenosine monophosphate (cAMP) as is experimentally seen.
+
+====================================================================================================
+Paper 25/65
+====================================================================================================
+arXiv ID: 2508.14001v1
+Title: Electrochemical response of biological membranes to localized currents and external electric fields
+Authors: Joshua B. Fernandes, Hyeongjoo Row, Kranthi K. Mandadapu, Karthik Shekhar
+Published Date: 2025-08-19
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2508.14001v1
+Comment: 16 pages, 10 figures
+
+Abstract:
+Electrochemical phenomena in biology often unfold in confined geometries where micrometer- to millimeter-scale domains coexist with nanometer-scale interfacial diffuse charge layers. We analyze a model lipid membrane-electrolyte system where an ion channel-like current flows across the membrane while parallel electrodes simultaneously apply a step voltage, emulating an extrinsic electric field. Matched asymptotic expansions of the Poisson-Nernst-Planck equations show that, under physiological conditions, the diffuse charge layers rapidly reach a quasi-steady state, and the bulk electrolyte remains electroneutral. As a result, all free charge is confined to the nanometer-scale screening layers at the membrane and electrode interfaces. The bulk electric potential satisfies Laplace's equation, and is dynamically coupled to the interfacial layers through time-dependent boundary conditions. This multiscale coupling partitions the space-time response into distinct regimes. At sufficiently long times, we show that the system can be represented by an equivalent circuit analogous to those used in classical cable theory. We derive closed-form expressions of the transmembrane potential within each regime, and verify them against nonlinear numerical simulations. Our results show how electrode-induced screening and confinement effects influence the electrochemical response over multiple length and time scales in biological systems.
+
+====================================================================================================
+Paper 26/65
+====================================================================================================
+arXiv ID: 2508.12693v1
+Title: A Novel Nonlinear IP$_3$R State Transition Model and Calcium Oscillation
+Authors: Zhao-Yu Peng, Han-Yu Jiang, Jun He
+Published Date: 2025-08-18
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2508.12693v1
+Comment: 9 pages, 4 figures
+
+Abstract:
+We present a novel nonlinear state transition model for inositol 1,4,5-trisphosphate receptors (IP$_3$Rs) that incorporates a pre-activated state, as suggested by electron microscopy observations. Our model provides a theoretical framework for the biphasic Ca$^{2+}$ dependence of IP$_3$Rs and accurately reproduces their experimentally observed state distribution under saturating IP$_3$ conditions. By integrating receptor dynamics with cytoplasmic and endoplasmic reticulum (ER) calcium exchange, we simulate IP$_3$R-mediated Ca$^{2+}$ oscillations governed by six key conformational states. A pivotal finding is that IP$_3$ regulates these oscillations in a switch-like manner: once a critical IP$_3$ concentration is reached, the system abruptly transitions to sustained, constant-amplitude oscillations that quickly terminate when the concentration exceeds a secondary threshold. These results underscore the crucial role of the pre-activated state in modulating calcium signaling.
+
+====================================================================================================
+Paper 27/65
+====================================================================================================
+arXiv ID: 2507.19395v1
+Title: Paused in translation: A model for the transcript length-dependent impact of ribosome-targeting antibiotics
+Authors: Johannes Keisers, Norbert Kern, Luca Ciandrini
+Published Date: 2025-07-25
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, cond-mat.stat-mech, physics.bio-ph
+PDF: https://arxiv.org/pdf/2507.19395v1
+Comment: 15 pages, 10 figures
+
+Abstract:
+Ribosome-targeting antibiotics, such as chloramphenicol, stall elongating ribosomes during protein synthesis, disrupting mRNA translation. These antibiotic-induced pauses occur stochastically, alter collective ribosome dynamics and transiently block protein production on the affected transcript. Existing models of ribosome traffic often rely on idealized assumptions, such as infinitely long mRNAs and simplified pausing dynamics, overlooking key biological constraints. Here, we develop a Totally Asymmetric Simple Exclusion Process (TASEP) that incorporates stochastic particle pausing, using experimentally determined pausing and unpausing rates to model the effects of ribosome-targeting antibiotics. We introduce a Single-Cluster approximation, which is analytically treatable, tailored to capture the biologically relevant regime of rare and long antibiotic-induced pauses. This biologically constrained model reveals three key insights: (i) the inhibition of antibiotic-induced translation strongly depends on transcript length, with longer transcripts being disproportionately affected; (ii) reducing ribosome initiation rates significantly mitigates antibiotic vulnerability; and (iii) inhibition of translation is governed more by collective ribosome dynamics than by single-ribosome properties. Our analytical predictions match Gillespie simulations, align quantitatively with experimental observations, and yield testable hypotheses for future experiments. These findings may have broader implications for the mechanistic modeling of other biological transport processes (e.g., RNAP dynamics), and more generally for the community studying traffic models.
+
+====================================================================================================
+Paper 28/65
+====================================================================================================
+arXiv ID: 2507.19021v1
+Title: Optimal sensing through phase separation
+Authors: Henry Alston, Mason Rouches, Arvind Murugan, Aleksandra M. Walczak, Thierry Mora
+Published Date: 2025-07-25
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2507.19021v1
+
+Abstract:
+Biomolecular condensates form on timescales of seconds in cells upon environmental or compositional changes. Condensate formation is thus argued to act as a mechanism for sensing such changes and quickly initiating downstream processes, such as forming stress granules in response to heat stress and amplifying cGAS enzymatic activity upon detection of cytosolic DNA. Here, we show that phase separation allows cells to discriminate small concentration differences on finite, biologically relevant timescales. We propose optimal sensing protocols, which use the sharp onset of phase separation. We show how, given experimentally measured rates, cells can achieve rapid and robust sensing of concentration differences of 1% on a timescale of minutes, offering an alternative to classical biochemical mechanisms.
+
+====================================================================================================
+Paper 29/65
+====================================================================================================
+arXiv ID: 2507.15353v1
+Title: Modulation of Calcium Signaling on Demand to Decipher the Molecular Mechanisms of Primary Aldosteronism
+Authors: Bakhta Fedlaoui, Teresa Cosentino, Zeina Al Sayed, Rita Alexandre Coelho, Isabelle Giscos-Douriez, Nicolo Faedda, May Fayad, Jean-Sebastien Hulot, Christopher Magnus, Scott Sternson, Simon Travers-Allard, Stephanie Baron, David Penton, Fabio Fernandes-Rosa, Maria-Christina Zennaro, Sheerazed Boulkroun
+Published Date: 2025-07-21
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, q-bio.TO
+PDF: https://arxiv.org/pdf/2507.15353v1
+Journal Reference: Hypertension, 2025, 82 (4), pp.716-732
+
+Abstract:
+BACKGROUND: Primary aldosteronism is the most common form of secondary hypertension. The most frequent genetic cause of aldosterone-producing adenomas is somatic mutations in the potassium channel KCNJ5. They affect the ion selectivity of the channel, with sodium influx leading to cell membrane depolarization and activation of calcium signaling, the major trigger for aldosterone biosynthesis. METHODS: To investigate how KCNJ5 mutations lead to the development of aldosterone-producing adenomas, we established an adrenocortical cell model in which sodium entry into the cells can be modulated on demand using chemogenetic tools [H295R-S2 $α$7-5HT3-R ($α$7-5HT3 receptor) cells]. We investigated their functional and molecular characteristics with regard to aldosterone biosynthesis and cell proliferation. RESULTS: A clonal cell line with stable expression of the chimeric $α$7-5HT3-R in H295R-S2 (human adrenocortical carcinoma cell line, Strain 2) cells was obtained. Increased sodium entry through $α$7-5HT3-R upon stimulation with uPSEM-817 (uPharmacologically Selective Effector Molecule-817) led to cell membrane depolarization, opening of voltage-gated Ca 2+ channels, and increased intracellular Ca 2+ concentrations, resulting in the stimulation of CYP11B2 expression and increased aldosterone biosynthesis. Increased intracellular sodium influx did not increase proliferation but rather induced apoptosis. RNA sequencing and steroidome analyses revealed unique profiles associated with Na + entry, with only partial overlap with Ang II (angiotensin II) or potassium-induced changes. CONCLUSIONS: H295R-S2 $α$7-5HT3-R cells are a new model reproducing the major features of cells harboring KCNJ5 mutations. Increased expression of CYP11B2 and stimulation of the mineralocorticoid biosynthesis pathway are associated with a decrease of cell proliferation and an increase of apoptosis, indicating that additional events may be required for the development of aldosterone-producing adenomas.
+
+====================================================================================================
+Paper 30/65
+====================================================================================================
+arXiv ID: 2507.08258v1
+Title: Formation and Regulation of Calcium Sparks on a Nonlinear Spatial Network of Ryanodine Receptors
+Authors: Tian-Tian Li, Zhong-Xue Gao, Zuo-Ming Ding, Han-Yu Jiang, Jun He
+Published Date: 2025-07-11
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, physics.bio-ph
+PDF: https://arxiv.org/pdf/2507.08258v1
+DOI: 10.1063/5.0250817
+Journal Reference: Chaos 35, 023120 (2025)
+Comment: 17 pages, 14 figures
+
+Abstract:
+Accurate regulation of calcium release is essential for cellular signaling, with the spatial distribution of ryanodine receptors (RyRs) playing a critical role. In this study, we present a nonlinear spatial network model that simulates RyR spatial organization to investigate calcium release dynamics by integrating RyR behavior, calcium buffering, and calsequestrin (CSQ) regulation. The model successfully reproduces calcium sparks, shedding light on their initiation, duration, and termination mechanisms under clamped calcium conditions. Our simulations demonstrate that RyR clusters act as on-off switches for calcium release, producing short-lived calcium quarks and longer-lasting calcium sparks based on distinct activation patterns. Spark termination is governed by calcium gradients and stochastic RyR dynamics, with CSQ facilitating RyR closure and spark termination. We also uncover the dual role of CSQ as both a calcium buffer and a regulator of RyRs. Elevated CSQ levels prolong calcium release due to buffering effects, while CSQ-RyR interactions induce excessive refractoriness, a phenomenon linked to pathological conditions such as ventricular arrhythmias. Dysregulated CSQ function disrupts the on-off switching behavior of RyRs, impairing calcium release dynamics. These findings provide new insights into RyR-mediated calcium signaling, highlighting CSQ's pivotal role in maintaining calcium homeostasis and its implications for pathological conditions. This work advances the understanding of calcium spark regulation and underscores its significance for cardiomyocyte function.
+
+====================================================================================================
+Paper 31/65
+====================================================================================================
+arXiv ID: 2507.06620v1
+Title: Kinesin-12 KLP-18 contributes to the kinetochore-microtubule poleward flux during the metaphase of C. elegans one-cell embryo
+Authors: Nina Soler, Mathis Da Silva, Christophe Tascon, Laurent Chesneau, Pauline Foliard, Hélène Bouvrais, Sylvain Pastezeur, Loïc Le Marrec, Jacques Pecreaux
+Published Date: 2025-07-09
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2507.06620v1
+
+Abstract:
+The mitotic spindle partitions chromosomes during cell division by connecting the poles to kinetochores through microtubules (MTs). Their plus-ends, facing the chromosomes, exhibit dynamic instability, which is critical for proper attachment. The poleward flux implicates the displacement of Mts towards the spindle poles, while plus-ends polymerise. It may result from minus-end depolymerisation (treadmilling), sliding by kinesins (e.g., Kinesin-5), or pushing by chromokinesins. Intriguingly, such flux had not been reported in the C. elegans zygote, despite homologs of flux-associated proteins being present.   To investigate this, we fluorescently labelled Mts and used photobleaching. We observed no global flux; instead, the bleached zone's edges moved inward. The centrosome-facing front reflected MT dynamic instability, but the chromosome-facing front showed faster recovery, suggesting an additional mechanism. This extra velocity was spatially restricted to the vicinity of chromosomes, suggesting that only the kinetochore Mts may undergo flux. Supporting this, flux required key kinetochore regulators: NDC-80, $\text{CLS-2}^\text{CLASP}$, and $\text{ZYG-9}^\text{XMAP215}$. Flux declined as metaphase progressed, correlating with the attachment maturation from lateral to end-on, and was suppressed by SKA-1 recruitment. Classic treadmilling was unlikely, as most kinetochore MTs in C. $elegans$ do not reach spindle poles. Instead, depleting $\text{KLP-18}^\text{KIF15}$, a kinesin that cross-links and organises Mts during meiosis, reduced front movement. We propose that only kinetochore Mts undergo flux, sliding along the spindle Mts, likely powered by KLP-18. This localised sliding contrasts with global flux seen in other systems, and aligns with observations in human cells showing flux reduction as chromosome-to-pole distance increases.
+
+====================================================================================================
+Paper 32/65
+====================================================================================================
+arXiv ID: 2507.16824v1
+Title: Decoding the Hot-Mitochondrion Paradox
+Authors: Peyman Fahimi, Michael Lynch, Cherif F. Matta
+Published Date: 2025-07-04
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2507.16824v1
+Comment: 21 Pages, 97 References, 4 Figures, 1 Table
+
+Abstract:
+In a 2018 paper and a subsequent article published in 2023, researchers reported that mitochondria maintain temperatures 10-15 degrees higher than the surrounding cytoplasm - a finding that deviates by 5 to 6 orders of magnitude from theoretical predictions based on Fourier s law of heat conduction. In 2022, we proposed a solution to this apparent paradox. In the present perspective, we build upon that framework and introduce new ideas to further unravel how a biological membrane - whether of an organelle or a whole cell - can become significantly warmer than its environment. We propose that proteins embedded in the inner mitochondrial membrane (IMM) can be modeled as ratchet engines, introducing a novel, previously overlooked mode of heat transfer. This mechanism, coupled with localized heat release during the cyclical dehydration-translocation-hydration of ions through membrane proteins, may generate transient but substantial temperature spikes. In the case of protons, the cycle additionally includes deprotonation before translocation and protonation after. The cumulative effect of these microscopic events across the three-dimensional surface of the IMM can account for the elevated temperatures detected by molecular probes. We also offer a hypothesis based on quantum chemical calculations on how such probes might detect these fleeting thermal signatures.
+
+====================================================================================================
+Paper 33/65
+====================================================================================================
+arXiv ID: 2507.03720v2
+Title: Fast decisions with biophysically constrained gene promoter architectures
+Authors: Tarek Tohme, Massimo Vergassola, Thierry Mora, Aleksandra M. Walczak
+Published Date: 2025-07-04
+Primary Category: q-bio.MN
+All Categories: q-bio.MN, q-bio.SC
+PDF: https://arxiv.org/pdf/2507.03720v2
+
+Abstract:
+Cells integrate signals and make decisions about their future state in short amounts of time. A lot of theoretical effort has gone into asking how to best design gene regulatory circuits that fulfill a given function, yet little is known about the constraints that performing that function in a small amount of time imposes on circuit architectures. Using an optimization framework, we explore the properties of a class of promoter architectures that distinguish small differences in transcription factor concentrations under time constraints. We show that the full temporal trajectory of gene activity allows for faster decisions than its integrated activity represented by the total number of transcribed mRNA. The topology of promoter architectures that allow for rapidly distinguishing low transcription factor concentrations result in a low, shallow, and non cooperative response, while at high concentrations, the response is high and cooperative. In the presence of non-cognate ligands, networks with fast and accurate decision times need not be optimally selective, especially if discrimination is difficult. While optimal networks are generically out of equilibrium, the energy associated with that irreversibility is only modest, and negligible at small concentrations. Instead, our results highlight the crucial role of rate-limiting steps imposed by biophysical constraints.
+
+====================================================================================================
+Paper 34/65
+====================================================================================================
+arXiv ID: 2506.22695v2
+Title: Protein Drift-Diffusion in Membranes with Non-equilibrium Fluctuations arising from Gradients in Concentration or Temperature
+Authors: D. Jasuja, P. J. Atzberger
+Published Date: 2025-06-28
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, nlin.AO, physics.bio-ph, physics.comp-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2506.22695v2
+
+Abstract:
+We investigate proteins within heterogeneous cell membranes where non-equilibrium phenomena arises from spatial variations in concentration and temperature. We develop simulation methods building on non-equilibrium statistical mechanics to obtain stochastic hybrid continuum-discrete descriptions which track individual protein dynamics, spatially varying concentration fluctuations, and thermal exchanges. We investigate biological mechanisms for protein positioning and patterning within membranes and factors in thermal gradient sensing. We also study the kinetics of Brownian motion of particles with temperature variations within energy landscapes arising from heterogeneous microstructures within membranes. The introduced approaches provide self-consistent models for studying biophysical mechanisms involving the drift-diffusion dynamics of individual proteins and energy exchanges and fluctuations between the thermal and mechanical parts of the system. The methods also can be used for studying related non-equilibrium effects in other biological systems and soft materials.
+
+====================================================================================================
+Paper 35/65
+====================================================================================================
+arXiv ID: 2506.20776v1
+Title: Balancing the cellular budget: lessons in metabolism from microbes to cancer
+Authors: B. Vibishan, Mohit Kumar Jolly, Akshit Goyal
+Published Date: 2025-06-25
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, q-bio.PE, q-bio.QM
+PDF: https://arxiv.org/pdf/2506.20776v1
+Comment: 18 pages and 1 figure Submitted to the journal BioSystems, see https://www.sciencedirect.com/special-issue/10VK46MFTR8
+
+Abstract:
+Cancer cells are often seen to prefer glycolytic metabolism over oxidative phosphorylation even in the presence of oxygen-a phenomenon termed the Warburg effect. Despite significant strides in the decades since its discovery, a clear basis is yet to be established for the Warburg effect and why cancer cells show such a preference for aerobic glycolysis. In this review, we draw on what is known about similar metabolic shifts both in normal mammalian physiology and overflow metabolism in microbes to shed new light on whether aerobic glycolysis in cancer represents some form of optimisation of cellular metabolism. From microbes to cancer, we find that metabolic shifts favouring glycolysis are sometimes driven by the need for faster growth, but the growth rate is by no means a universal goal of optimal metabolism. Instead, optimisation goals at the cellular level are often multi-faceted and any given metabolic state must be considered in the context of both its energetic costs and benefits over a range of environmental contexts. For this purpose, we identify the conceptual framework of resource allocation as a potential testbed for the investigation of the cost-benefit balance of cellular metabolic strategies. Such a framework is also readily integrated with dynamical systems modelling, making it a promising avenue for new answers to the age-old question of why cells, from cancers to microbes, choose the metabolic strategies they do.
+
+====================================================================================================
+Paper 36/65
+====================================================================================================
+arXiv ID: 2506.15214v1
+Title: Algal Optics
+Authors: Ming Yang, Sumit Kumar Birwa, Raymond E. Goldstein
+Published Date: 2025-06-18
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2506.15214v1
+Comment: 15 pages, 10 figures
+
+Abstract:
+Nearly a decade ago it was discovered that the spherical cell body of the alga $Chlamydomonas~reinhardtii$ can act as a lens to concentrate incoming light onto the cell's membrane-bound photoreceptor and thereby affect phototaxis. Since many nearly transparent cells in marine environments have complex, often non-axisymmetric shapes, this observation raises fundamental, yet little-explored questions in biological optics about light refraction by the bodies of microorganisms. There are two distinct contexts for such questions: the $absorption$ problem for $incoming$ light, typified by photosynthetic activity taking place in the chloroplasts of green algae, and the $emission$ problem for $outgoing$ light, where the paradigm is bioluminescence emitted from scintillons within dinoflagellates. Here we examine both of these aspects of ``algal optics" in the special case where the absorption or emission is localized in structures that are small relative to the overall organism size, taking into account both refraction and reflections at the cell-water boundary. Analytical and numerical results are developed for the distribution of light intensities inside and outside the body, and we establish certain duality relationships that connect the incoming and outgoing problems. For strongly non-spherical shapes we find lensing effects that may have implications for photosynthetic activity and for the angular distribution of light emitted during bioluminescent flashes.
+
+====================================================================================================
+Paper 37/65
+====================================================================================================
+arXiv ID: 2506.12209v2
+Title: Nucleation feedback can drive establishment and maintenance of biased microtubule polarity in neurites
+Authors: Hannah G. Scanlon, Gibarni Mahata, Anna C. Nelson, Scott A. McKinley, Melissa M. Rolls, Maria-Veronica Ciocanel
+Published Date: 2025-06-13
+Primary Category: q-bio.QM
+All Categories: q-bio.QM, q-bio.SC
+PDF: https://arxiv.org/pdf/2506.12209v2
+Comment: 37 pages, 10 figures
+
+Abstract:
+The microtubule cytoskeleton is comprised of dynamic, polarized filaments that facilitate transport within the cell. Polarized microtubule arrays are key to facilitating cargo transport in long cells such as neurons. Microtubules also undergo dynamic instability, where the plus and minus ends of the filaments switch between growth and shrinking phases, leading to frequent microtubule turnover. Although microtubules often completely disassemble and new filaments nucleate, microtubule arrays have been observed to both maintain their biased orientation throughout the cell lifetime and to rearrange their polarity as an adaptive response to injury. Motivated by cytoskeleton organization in neurites, we propose a spatially-explicit stochastic model of microtubule arrays and investigate how nucleation of new filaments could generate biased polarity in a simple linear domain. Using a continuous-time Markov chain model of microtubule growth dynamics, we model and parameterize two experimentally-validated nucleation mechanisms: nucleation feedback, where the direction of filament growth depends on existing microtubule content, and a checkpoint mechanism, where microtubules that nucleate in a direction opposite to the majority experience frequent catastrophe. When incorporating these validated mechanisms into the spatial model, we find that nucleation feedback is sufficient to establish biased polarity in neurites of different lengths, and that the emergence and maintenance of biased polarity is relatively stable in spite of stochastic fluctuations. This work provides a framework to study the relationship between microtubule nucleation and polarity, and could extend to give insights into mechanisms that drive the formation of polarized filament arrays in other biological settings.
+
+====================================================================================================
+Paper 38/65
+====================================================================================================
+arXiv ID: 2506.09293v1
+Title: Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy (CADASIL): Immunotherapy and Cell Therapy approaches
+Authors: Sierra Haile, Benjamin C. Balzer, Emily Egan, Cheryl L. Jorcyk, Nilufar Ali
+Published Date: 2025-06-10
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, q-bio.TO
+PDF: https://arxiv.org/pdf/2506.09293v1
+
+Abstract:
+This article focuses on current and emerging therapeutics for CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy). CADASIL is an inherited vascular disease that impairs blood flow in the small cerebral vessels of the brain, leading to strokes and other neurological deficits. The disease is caused by a mutation in the NOTCH3 gene located on chromosome 19. NOTCH3 encodes a transmembrane receptor expressed on vascular smooth muscle cells. In CADASIL, mutations in the NOTCH3 gene lead to the accumulation and deposition of the receptor, affecting the number of cysteine residues in its extracellular domain. These mutations result in the loss or gain of a cysteine residue within the epidermal growth factor-like repeat (EGFr) domains of the NOTCH protein. Beyond traditional symptomatic treatments for stroke, this work highlights advances in disease modifying approaches including gene editing, cell therapies, and immune-based interventions aimed at altering the course of CADASIL. It also examines ongoing clinical trials and recent patents related to these novel strategies. In addition to summarizing diagnostic methods and molecular mechanisms, the article emphasizes the translational potential of current research and the experimental models driving therapeutic development. The goal is to offer a comprehensive overview of CADASIL and emerging interventions that hold promise for improving long-term outcomes.
+
+====================================================================================================
+Paper 39/65
+====================================================================================================
+arXiv ID: 2506.05643v2
+Title: Diffusive Spreading Across Dynamic Mitochondrial Network Architectures
+Authors: Keaton B. Holt, Camryn Zurita, Lizzy Teryoshin, Samantha C. Lewis, Elena F. Koslover
+Published Date: 2025-06-06
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2506.05643v2
+
+Abstract:
+Networks of physical units can vary from a stationary set of spatially-embedded links to a collection of mobile agents that undergo transient social interactions. In living cells, mitochondria form architectures that span across these regimes, transitioning between fragmented, partly connected, and highly fused structures depending on cell type and state. Diffusive transport of biomolecular components through these networks limits the heterogeneity of the mitochondrial population. Here we address the connection between dynamic network architecture and the rate of diffusive mixing through simulations and analytic models that incorporate fusion, fission, and rearrangement. We find that the material delivered from a source to the rest of the network depends on the network dimensionality and a balance of competing timescales for encounter, fusion, and diffusive dispersion. We extract morphological and dynamic parameters for mitochondrial networks in three human cell lines, demonstrating that different cells span across both the physical and social network regimes. Mixing in mitochondrial networks is shown to be limited by material transport through connected tubules for slowly-diffusing particles and by inter-mitochondrial encounter rates for rapidly diffusing ones. These results provide a quantitative basis for predicting the homogenization of proteins, lipids, ions, or genetic material through the mitochondrial population. The general principles identified in this work capture diffusive spreading through both social and physical networks, unifying a continuum of spatial network architectures.
+
+====================================================================================================
+Paper 40/65
+====================================================================================================
+arXiv ID: 2505.19127v1
+Title: Active Matter under Cyclic Stretch: Modeling Microtubule Alignment and Bundling
+Authors: Takumi Tagaki, Seiya Nishikawa, Shuji Ishihara
+Published Date: 2025-05-25
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, q-bio.BM, q-bio.SC
+PDF: https://arxiv.org/pdf/2505.19127v1
+Comment: 6 pages, 4 figures
+
+Abstract:
+We investigate the behavior of self-propelled particles under cyclic stretching, inspired by the characteristic pattern dynamics observed in microtubule (MT) motility assays subjected to uniaxial cyclic substrate stretching. We develop a self-propelled particle model that incorporates the elastic energy acting on the filaments due to substrate deformation, successfully reproducing the experimentally observed MT patterns. Additionally, the general framework of the model enables systematic exploration of collective responses to various substrate deformations, offering potential applications in the manipulation of MT patterns and other active matter systems.
+
+====================================================================================================
+Paper 41/65
+====================================================================================================
+arXiv ID: 2505.15849v2
+Title: What Lives? A meta-analysis of diverse opinions on the definition of life
+Authors: Reed Bender, Karina Kofman, Blaise Agüera y Arcas, Michael Levin
+Published Date: 2025-05-19
+Primary Category: q-bio.OT
+All Categories: q-bio.OT, cs.AI, cs.CY, q-bio.BM, q-bio.CB, q-bio.SC, stat.AP
+PDF: https://arxiv.org/pdf/2505.15849v2
+Comment: 54 pages, 4 figures, 2 tables, 11 supplemental figures, 3 supplemental tables
+
+Abstract:
+The question of "what is life?" has challenged scientists and philosophers for centuries, producing an array of definitions that reflect both the mystery of its emergence and the diversity of disciplinary perspectives brought to bear on the question. Despite significant progress in our understanding of biological systems, psychology, computation, and information theory, no single definition for life has yet achieved universal acceptance. This challenge becomes increasingly urgent as advances in synthetic biology, artificial intelligence, and astrobiology challenge our traditional conceptions of what it means to be alive. We undertook a methodological approach that leverages large language models (LLMs) to analyze a set of definitions of life provided by a curated set of cross-disciplinary experts. We used a novel pairwise correlation analysis to map the definitions into distinct feature vectors, followed by agglomerative clustering, intra-cluster semantic analysis, and t-SNE projection to reveal underlying conceptual archetypes. This methodology revealed a continuous landscape of the themes relating to the definition of life, suggesting that what has historically been approached as a binary taxonomic problem should be instead conceived as differentiated perspectives within a unified conceptual latent space. We offer a new methodological bridge between reductionist and holistic approaches to fundamental questions in science and philosophy, demonstrating how computational semantic analysis can reveal conceptual patterns across disciplinary boundaries, and opening similar pathways for addressing other contested definitional territories across the sciences.
+
+====================================================================================================
+Paper 42/65
+====================================================================================================
+arXiv ID: 2505.07641v2
+Title: Weak transcription factor clustering at binding sites can facilitate information transfer from molecular signals
+Authors: Tamara Mijatović, Aimée R. Kok, Merlijn Brüggen, Jos W. Zwanikken, Marianne Bauer
+Published Date: 2025-05-12
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2505.07641v2
+
+Abstract:
+Transcription factor concentrations provide signals to cells that allow them to regulate gene expression to make correct cell fate decisions. Calculations for noise bounds in gene regulation suggest that clustering or cooperative binding of transcription factors decreases signal-to-noise ratios at binding sites. However, clustering of transcription factor molecules around binding sites is frequently observed. We develop two complementary models for clustering transcription factors at binding site sensors that allow us to study information transfer from a signal, the morphogen Bicoid, to a variable relevant to development, namely future cell fates. We find that weak cooperativity or clustering can allow for maximal information transfer, especially about the relevant variable. The timescale of measurement is crucial for predicting the optimal clustering strength: for short measurements, clustering allows for the implementation of a switch, while for long measurements, weak clustering allows the sensor to access maximal developmental information provided in a nonlinear signal. Finally, we find that clustering not only facilitates information maximization about the relevant variable, but also can allow the binding site sensors to achieve optimality in a related optimization goal, the information bottleneck (IB) bound. While the measurement time restricts the region on the information plane that is accessible, changes in clustering in conjunction with changes in the binding energy can shift the binding site along the optimal bound, and towards an optimal trade-off between obtaining information about the signal and obtaining relevant information.
+
+====================================================================================================
+Paper 43/65
+====================================================================================================
+arXiv ID: 2505.07053v1
+Title: The Dynamics of Inducible Genetic Circuits
+Authors: Zitao Yang, Rebecca J. Rousseau, Sara D. Mahdavi, Hernan G. Garcia, Rob Phillips
+Published Date: 2025-05-11
+Primary Category: q-bio.MN
+All Categories: q-bio.MN, physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2505.07053v1
+Comment: 57 pages, 38 figures
+
+Abstract:
+Genes are connected in complex networks of interactions where often the product of one gene is a transcription factor that alters the expression of another. Many of these networks are based on a few fundamental motifs leading to switches and oscillators of various kinds. And yet, there is more to the story than which transcription factors control these various circuits. These transcription factors are often themselves under the control of effector molecules that bind them and alter their level of activity. Traditionally, much beautiful work has shown how to think about the stability of the different states achieved by these fundamental regulatory architectures by examining how parameters such as transcription rates, degradation rates and dissociation constants tune the circuit, giving rise to behavior such as bistability. However, such studies explore dynamics without asking how these quantities are altered in real time in living cells as opposed to at the fingertips of the synthetic biologist's pipette or on the computational biologist's computer screen. In this paper, we make a departure from the conventional dynamical systems view of these regulatory motifs by using statistical mechanical models to focus on endogenous signaling knobs such as effector concentrations rather than on the convenient but more experimentally remote knobs such as dissociation constants, transcription rates and degradation rates that are often considered. We also contrast the traditional use of Hill functions to describe transcription factor binding with more detailed thermodynamic models. This approach provides insights into how biological parameters are tuned to control the stability of regulatory motifs in living cells, sometimes revealing quite a different picture than is found by using Hill functions and tuning circuit parameters by hand.
+
+====================================================================================================
+Paper 44/65
+====================================================================================================
+arXiv ID: 2505.06834v2
+Title: Local stabilizability implies global controllability in catalytic reaction systems
+Authors: Yusuke Himeoka, Shuhei A. Horiguchi, Naoto Shiraishi, Fangzhou Xiao, Tetsuya J. Kobayashi
+Published Date: 2025-05-11
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2505.06834v2
+
+Abstract:
+Controlling complex reaction networks is a fundamental challenge in the fields of physics, biology, and systems engineering. Here, we prove a general principle for catalytic reaction systems with kinetics where the reaction order and the stoichiometric coefficient match: the local stabilizability of a given state implies global controllability within its stoichiometric compatibility class. In other words, if a target state can be maintained against small perturbations, the system can be controlled from any initial condition to that state. This result highlights a tight link between the local and global dynamics of nonlinear chemical reaction systems, providing a mathematical criterion for global reachability that is often elusive in high-dimensional systems. The finding illuminate the robustness of biochemical systems and offers a way to control catalytic reaction systems in a generic framework.
+
+====================================================================================================
+Paper 45/65
+====================================================================================================
+arXiv ID: 2504.17694v1
+Title: Using mathematical models of heart cells to assess the safety of new pharmaceutical drugs
+Authors: Gary R. Mirams
+Published Date: 2025-04-24
+Primary Category: q-bio.CB
+All Categories: q-bio.CB, q-bio.SC
+PDF: https://arxiv.org/pdf/2504.17694v1
+DOI: 10.1007/978-3-031-48683-8_22
+Journal Reference: Mirams, G.R. (2025). Using Mathematical Models of Heart Cells to Assess the Safety of New Pharmaceutical Drugs. In: Aston, P.J. (eds) More UK Success Stories in Industrial Mathematics. Mathematics in Industry, vol 42. Springer, Cham
+Comment: 7 pages, 2 figures
+
+Abstract:
+Many drugs have been withdrawn from the market worldwide, at a cost of billions of dollars, because of patient fatalities due to them unexpectedly disturbing heart rhythm. Even drugs for ailments as mild as hay fever have been withdrawn due to an unacceptable increase in risk of these heart rhythm disturbances. Consequently, the whole pharmaceutical industry expends a huge effort in checking all new drugs for any unwanted side effects on the heart. The predominant root cause has been identified as drug molecules blocking ionic current flows in the heart. Block of individual types of ionic currents can now be measured experimentally at an early stage of drug development, and this is the standard screening approach for a number of ion currents in many large pharmaceutical companies. However, clinical risk is a complex function of the degree of block of many different types of cardiac ion currents, and this is difficult to understand by looking at results of these screens independently. By using ordinary differential equation models for the electrical activity of heart cells (electrophysiology models) we can integrate information from different types of currents, to predict the effect on whole heart cells and subsequent risk of side effects. The resulting simulations can provide a more accurate summary of the risk of a drug earlier in development and hence more cheaply than the pre-existing approaches.
+
+====================================================================================================
+Paper 46/65
+====================================================================================================
+arXiv ID: 2504.17162v1
+Title: A Comprehensive Review on RNA Subcellular Localization Prediction
+Authors: Cece Zhang, Xuehuan Zhu, Nick Peterson, Jieqiong Wang, Shibiao Wan
+Published Date: 2025-04-24
+Primary Category: cs.CV
+All Categories: cs.CV, cs.AI, q-bio.GN, q-bio.SC
+PDF: https://arxiv.org/pdf/2504.17162v1
+
+Abstract:
+The subcellular localization of RNAs, including long non-coding RNAs (lncRNAs), messenger RNAs (mRNAs), microRNAs (miRNAs) and other smaller RNAs, plays a critical role in determining their biological functions. For instance, lncRNAs are predominantly associated with chromatin and act as regulators of gene transcription and chromatin structure, while mRNAs are distributed across the nucleus and cytoplasm, facilitating the transport of genetic information for protein synthesis. Understanding RNA localization sheds light on processes like gene expression regulation with spatial and temporal precision. However, traditional wet lab methods for determining RNA localization, such as in situ hybridization, are often time-consuming, resource-demanding, and costly. To overcome these challenges, computational methods leveraging artificial intelligence (AI) and machine learning (ML) have emerged as powerful alternatives, enabling large-scale prediction of RNA subcellular localization. This paper provides a comprehensive review of the latest advancements in AI-based approaches for RNA subcellular localization prediction, covering various RNA types and focusing on sequence-based, image-based, and hybrid methodologies that combine both data types. We highlight the potential of these methods to accelerate RNA research, uncover molecular pathways, and guide targeted disease treatments. Furthermore, we critically discuss the challenges in AI/ML approaches for RNA subcellular localization, such as data scarcity and lack of benchmarks, and opportunities to address them. This review aims to serve as a valuable resource for researchers seeking to develop innovative solutions in the field of RNA subcellular localization and beyond.
+
+====================================================================================================
+Paper 47/65
+====================================================================================================
+arXiv ID: 2504.11466v2
+Title: Emergent microtubule properties in a model of filament turnover and nucleation
+Authors: Anna C. Nelson, Scott A. McKinley, Melissa M. Rolls, Maria-Veronica Ciocanel
+Published Date: 2025-04-02
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2504.11466v2
+Comment: 26 pages, 5 figures
+
+Abstract:
+Microtubules (MTs) are dynamic protein filaments essential for intracellular organization and transport, particularly in long-lived cells such as neurons. The plus and minus ends of neuronal MTs switch between growth and shrinking phases, and the nucleation of new filaments is believed to be regulated in both healthy and injury conditions. We propose stochastic and deterministic mathematical models to investigate the impact of filament nucleation and length-regulation mechanisms on emergent properties such as MT lengths and numbers in living cells. We expand our stochastic continuous-time Markov chain model of filament dynamics to incorporate MT nucleation and capture realistic stochastic fluctuations in MT numbers and tubulin availability. We also propose a simplified partial differential equation (PDE) model, which allows for tractable analytical investigation into steady-state MT distributions under different nucleation and length-regulating mechanisms. We find that the stochastic and PDE modeling approaches show good agreement in predicted MT length distributions, and that both MT nucleation and the catastrophe rate of large-length MTs regulate MT length distributions. In both frameworks, multiple mechanistic combinations achieve the same average MT length. The models proposed can predict parameter regimes where the system is scarce in tubulin, the building block of MTs, and suggest that low filament nucleation regimes are characterized by high variation in MT lengths, while high nucleation regimes drive high variation in MT numbers. These mathematical frameworks have the potential to improve our understanding of MT regulation in both healthy and injured neurons.
+
+====================================================================================================
+Paper 48/65
+====================================================================================================
+arXiv ID: 2503.20964v3
+Title: Active Hydrodynamic Theory of Euchromatin and Heterochromatin
+Authors: S. Alex Rautu, Alexandra Zidovska, David Saintillan, Michael J. Shelley
+Published Date: 2025-03-26
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2503.20964v3
+
+Abstract:
+The genome contains genetic information essential for cell's life. The genome's spatial organization inside the cell nucleus is critical for its proper function including gene regulation. The two major genomic compartments -- euchromatin and heterochromatin -- contain largely transcriptionally active and silenced genes, respectively, and exhibit distinct dynamics. In this work, we present a hydrodynamic framework that describes the large-scale behavior of euchromatin and heterochromatin, and accounts for the interplay of mechanical forces, active processes, and nuclear confinement. Our model shows contractile stresses from cross-linking proteins lead to the formation of heterochromatin droplets via mechanically driven phase separation. These droplets grow, coalesce, and in nuclear confinement, wet the boundary. Active processes, such as gene transcription in euchromatin, introduce non-equilibrium fluctuations that drive long-range, coherent motions of chromatin as well as the nucleoplasm, and thus alter the genome's spatial organization. These fluctuations also indirectly deform heterochromatin droplets, by continuously changing their shape. Taken together, our findings reveal how active forces, mechanical stresses and hydrodynamic flows contribute to the genome's organization at large scales and provide a physical framework for understanding chromatin organization and dynamics in live cells.
+
+====================================================================================================
+Paper 49/65
+====================================================================================================
+arXiv ID: 2503.19517v1
+Title: Single-molecule trajectories of reactants in chemically active biomolecular condensates
+Authors: Stefano Bo, Lars Hubatsch, Frank Jülicher
+Published Date: 2025-03-25
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, cond-mat.stat-mech
+PDF: https://arxiv.org/pdf/2503.19517v1
+Comment: 17 pages, 3 figures
+
+Abstract:
+Biomolecular condensates provide distinct chemical environments, which control various cellular processes. The diffusive dynamics and chemical kinetics inside phase-separated condensates can be studied experimentally by fluorescently labeling molecules, providing key insights into cell biology. We discuss how condensates govern the kinetics of chemical reactions and how this is reflected in the stochastic dynamics of labeled molecules. This allows us to reveal how the physics of phase separation influences the evolution of single-molecule trajectories and governs their statistics. We find that, out of equilibrium, the interactions that enable phase separation can induce directed motion and transport at the level of single molecules. Our work provides a theoretical framework to quantitatively analyze single-molecule trajectories in phase-separated systems.
+
+====================================================================================================
+Paper 50/65
+====================================================================================================
+arXiv ID: 2504.03684v1
+Title: Deterministic and Stochastic Models in Enzyme Kinetics
+Authors: Jiaji Qu, Malini Rajbhandari
+Published Date: 2025-03-22
+Primary Category: q-bio.MN
+All Categories: q-bio.MN, q-bio.SC
+PDF: https://arxiv.org/pdf/2504.03684v1
+Comment: Paper for 523 with Hong Qian
+
+Abstract:
+Enzyme kinetics has historically been described by deterministic models, with the Michaelis-Menten (MM) equation serving as a paradigm. However, recent experimental and theoretical advances have made it clear that stochastic fluctuations, particularly at low copy numbers or single-enzyme levels, can profoundly impact reaction outcomes. In this paper, we present a comprehensive view of enzyme kinetics from both deterministic and stochastic perspectives. We begin by deriving the classical Michaelis-Menten equation under the quasi-steady-state assumption (QSSA) and discuss its validity. We then formulate the corresponding stochastic model via the chemical master equation (CME) and illustrate how the Gillespie algorithm can simulate single-molecule events and briefly use Kampen's system-size expansion to justify our simulation methods. Through extended computational analyses -- including variance calculations, phase-plane exploration, and parameter sensitivity -- we highlight how deterministic and stochastic predictions coincide in certain limits but can diverge in small systems. We further incorporate case studies from single-enzyme turnover experiments and cellular contexts to showcase the real-world implications of noise. Taken together, our results underscore the necessity of a multifaceted modeling strategy, whereby one can switch between deterministic methods and stochastic realism to gain a fuller understanding of enzyme kinetics at different scales.
+
+====================================================================================================
+Paper 51/65
+====================================================================================================
+arXiv ID: 2503.11747v1
+Title: Physical Principles of Quantum Biology
+Authors: Nathan S. Babcock, Brandy N. Babcock
+Published Date: 2025-03-14
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.BM, q-bio.CB, q-bio.SC, q-bio.TO, quant-ph
+PDF: https://arxiv.org/pdf/2503.11747v1
+Comment: Technical monograph, 161 pages, 1754 citations
+
+Abstract:
+This technical monograph provides a comprehensive overview of the field of quantum biology. It approaches quantum biology from a physical perspective with core quantum mechanical concepts presented foremost to provide a theoretical foundation for the field. An extensive body of research is covered to clarify the significance of quantum biology as a scientific field, outlining the field's long-standing importance in the historical development of quantum theory. This lays the essential groundwork to enable further advances in nanomedicine and biotechnology. Written for academics, biological science researchers, physicists, biochemists, medical technologists, and students of quantum mechanics, this text brings clarity to fundamental advances being made in the emerging science of quantum biology.
+
+====================================================================================================
+Paper 52/65
+====================================================================================================
+arXiv ID: 2503.04677v1
+Title: Capacitive response of biological membranes
+Authors: Jafar Farhadi, Joshua B. Fernandes, Karthik Shekhar, Kranthi K. Mandadapu
+Published Date: 2025-03-06
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, physics.bio-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2503.04677v1
+
+Abstract:
+We present a minimal model to analyze the capacitive response of a biological membrane subjected to a step voltage via blocking electrodes. Through a perturbative analysis of the underlying electrolyte transport equations, we show that the leading-order relaxation of the transmembrane potential is governed by a capacitive timescale, ${τ_{\rm C} =\dfrac{λ_{\rm D}L}{D}\left(\dfrac{2+Γδ^{\rm M}/L}{4+Γδ^{\rm M}/λ_{\rm D}}\right)}$, where $λ_{\rm D}$ is the Debye screening length, $L$ is the electrolyte width, $Γ$ is the ratio of the dielectric permittivity of the electrolyte to the membrane, $δ^{\rm M}$ is the membrane thickness, and $D$ is the ionic diffusivity. This timescale is considerably shorter than the traditional RC timescale ${λ_{\rm D} L / D}$ for a bare electrolyte due to the membrane's low dielectric permittivity and finite thickness. Beyond the linear regime, however, salt diffusion in the bulk electrolyte drives a secondary, nonlinear relaxation process of the transmembrane potential over a longer timescale ${τ_{\rm L} =L^2/4π^2 D}$. A simple equivalent-circuit model accurately captures the linear behavior, and the perturbation expansion remains applicable across the entire range of observed physiological transmembrane potentials. Together, these findings underscore the importance of the faster capacitive timescale and nonlinear effects on the bulk diffusion timescale in determining transmembrane potential dynamics for a range of biological systems.
+
+====================================================================================================
+Paper 53/65
+====================================================================================================
+arXiv ID: 2503.03913v3
+Title: Proton Flows, Proton Gradients and Subcellular Architecture in Biological Energy Conversion
+Authors: Luca Quaroni
+Published Date: 2025-03-05
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2503.03913v3
+
+Abstract:
+Hydrogen cations, or protons, provide the medium by which energy is stored and converted in biological systems. Such pre-eminence relies on the interplay between interfacial and bulk chemical transformations, according to mechanisms that are shared by organisms in all phyla of life. The present work provides an introduction to the fundamental aspects of biological energy management by focusing on the relationship between vectorial proton flows and the geometry of energy producing organelles in eukaryotes. The leading models of proton-mediated energy conversion, the delocalised proton (or chemiosmotic) model and the localised proton model, are presented in a complementary perspective. While the delocalised model provides a description that relies on equilibrium thermodynamics, the localised model addresses dynamic processes that are better described using out-of-equilibrium thermodynamics. The work reviews the salient aspects of such mechanisms, traces the development of our present understanding, and highlights areas that are open to future developments.
+
+====================================================================================================
+Paper 54/65
+====================================================================================================
+arXiv ID: 2503.00965v2
+Title: Insights into new mechanosensitive behaviors of G protein-coupled receptors
+Authors: Aakanksha J Shetty, Alexei Sirbu, Paolo Annibale
+Published Date: 2025-03-02
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, q-bio.CB, q-bio.SC
+PDF: https://arxiv.org/pdf/2503.00965v2
+Comment: 24 pages, 8 figures
+
+Abstract:
+G protein-coupled receptors (GPCRs) represent a diverse and vital family of membrane proteins that mediate intracellular signaling in response to extracellular stimuli, playing critical roles in physiology and disease. Traditionally recognized as chemical signal transducers, GPCRs have recently been implicated in mechanotransduction, the process of converting mechanical stimuli into cellular responses. This review explores the emerging role of GPCRs in sensing and responding to mechanical forces, with a particular focus on the cardiovascular system. Cardiovascular homeostasis is heavily influenced by mechanical forces such as shear stress, cyclic stretch, and pressure, which are central to both normal physiology and the pathogenesis of diseases like hypertension and atherosclerosis. GPCRs, including the angiotensin II type 1 receptor (AT1R) and the \b{eta}2-adrenergic receptor (\b{eta}2-AR), have demonstrated the ability to integrate mechanical and chemical signals, potentially through conformational changes and/or modulation of lipid interactions, leading to biased signaling. Recent studies highlight the dual activation mechanisms of GPCRs, with \b{eta}2-AR now serving as a key example of how mechanical and ligand-dependent pathways contribute to cardiovascular regulation. This review synthesizes current knowledge of GPCR mechanosensitivity, emphasizing its implications for cardiovascular health and disease, and explores advancements in methodologies poised to further unravel the mechanistic intricacies of these receptors.
+
+====================================================================================================
+Paper 55/65
+====================================================================================================
+arXiv ID: 2502.12675v1
+Title: Fast Antibiotic resistance-Based gene editing of mammalian cells with CRISPR-Cas9 (FAB-CRISPR)
+Authors: Petia Adarska, Eleanor Fox, Joshua Heyza, Carlo Barnaba, Jens Schmidt, Francesca Bottanelli
+Published Date: 2025-02-18
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2502.12675v1
+
+Abstract:
+Protein tagging with CRISPR-Cas9 enables the investigation of protein function in its native environment but is limited by low homology-directed repair (HDR) efficiency causing low knock-in rates. We present a detailed pipeline using HDR donor plasmids containing antibiotic resistance cassettes for rapid selection of gene-edited cells. Our protocol streamlines N- or C-terminal tagging in human cells, enabling HDR donor plasmid preparation in a single cloning step.
+
+====================================================================================================
+Paper 56/65
+====================================================================================================
+arXiv ID: 2502.03290v1
+Title: Ultrasensitivity without conformational spread: A mechanical origin for non-equilibrium cooperativity in the bacterial flagellar motor
+Authors: Henry H. Mattingly, Yuhai Tu
+Published Date: 2025-02-05
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, cond-mat.stat-mech, q-bio.SC
+PDF: https://arxiv.org/pdf/2502.03290v1
+Comment: 9 pages, 5 figures, plus supporting information
+
+Abstract:
+Flagellar motors enable bacteria to navigate their environments by switching rotation direction in response to external cues with high sensitivity. Previous work suggested that ultrasensitivity of the flagellar motor originates from conformational spread, in which subunits of the switching complex are strongly coupled to their neighbors as in an equilibrium Ising model. However, dynamic single-motor measurements indicated that rotation switching is driven out of equilibrium, and the mechanism for this dissipative driving remains unknown. Here, based on recent cryo-EM structures, we propose that local mechanical torques on motor subunits can affect their conformation dynamics. This gives rise to a tug of war between stator-associated subunits, which produces cooperative, non-equilibrium switching responses without requiring nearest-neighbor interactions. Since subunits are effectively coupled at a distance, we call this mechanism ``Global Mechanical Coupling." Our model makes a qualitatively new prediction that the motor response cooperativity grows with the number of stators driving rotation. Re-analyzing published motor dose-response curves in varying load conditions, we find tentative experimental evidence for this prediction. Finally, we show that operating out of equilibrium enables motors to achieve high cooperativity with faster responses compared to equilibrium motors. Our results suggest a general role for mechanics in sensitive chemical regulation.
+
+====================================================================================================
+Paper 57/65
+====================================================================================================
+arXiv ID: 2501.19366v2
+Title: A Simple Voltage-Modulated Markov Chain Model for the Piezo1 Ion Channel to Investigate Electromechanical Pacing
+Authors: Dennis Ogiermann, Abdulaziz Mohamed, Luigi E. Perotti, Daniel Balzani
+Published Date: 2025-01-31
+Primary Category: q-bio.QM
+All Categories: q-bio.QM, q-bio.SC
+PDF: https://arxiv.org/pdf/2501.19366v2
+
+Abstract:
+Piezo1 ion channels are voltage-modulated, stretch-activated ion channels involved in a variety of important physiological and pathophysiological processes, as for example cardiovascular development and homeostasis. Since its discovery, it has been known that this type of ion channel desensitizes when exposed to stretch. However, recent experiments on Piezo1 ion channels have uncovered that their stretch response is qualitatively different when exposed to positive electrochemical driving forces, where the desensitization is reset. In this work, we propose a novel voltage-modulated mathematical model of Piezo1 based on a continuous-time Markov chain. We show that our Piezo1 model is able to quantitatively reproduce a wide range of experimental observations. Furthermore, we integrate our new ion channel model into the Mahajan-Shiferaw ventricular cardiomyocyte model to study the effect of electromechanical pacing at the cellular scale. This integrated cell model is able to qualitatively reproduce some aspects of the experimental observations regarding the rate-dependence of electromechanical pacing protocols. Our studies suggest that the Piezo1 ion channel is an important component that significantly contributes to the electromechanical coupled response of cardiomyocytes.
+
+====================================================================================================
+Paper 58/65
+====================================================================================================
+arXiv ID: 2501.14538v1
+Title: Active Intracellular Mechanics: A Key to Cellular Function and Organization
+Authors: Mohammad Amin Eskandari, Jannis Fischer, Noémie Veyret, Dorian Marx, Timo Betz
+Published Date: 2025-01-24
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2501.14538v1
+Comment: 33 pages, 6 figures
+
+Abstract:
+While mechanobiology has demonstrated that precise control over mechanical properties at the whole-cell level is crucial for many biological functions, comparatively little attention has been paid to the intracellular mechanical properties. Experimental tools have only recently become available to adequately measure the viscoelasticity and activity of the cytosol, revealing, revealing that the active, non-equilibrium nature of the intracellular environment must be carefully considered.   To explore the interplay between active forces and viscoelastic properties, it is helpful to consider our current understanding of intracellular active mechanics. In this review, we aim not only to provide an intuitive and quantitative introduction to the relevant physical concepts, but also to offer an overview of the proteins that establish intracellular active mechanics, highlighting their spatial and temporal variation with a particular focus on the role of activity.   Although we are only beginning to uncover the importance of intracellular active mechanics for cellular mechanisms, it is increasingly clear that these properties must be precisely regulated to ensure proper cellular function.
+
+====================================================================================================
+Paper 59/65
+====================================================================================================
+arXiv ID: 2501.13639v5
+Title: Physics of droplet regulation in biological cells
+Authors: David Zwicker, Oliver W. Paulin, Cathelijne ter Burg
+Published Date: 2025-01-23
+Primary Category: physics.bio-ph
+All Categories: physics.bio-ph, cond-mat.soft, cond-mat.stat-mech, physics.chem-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2501.13639v5
+Comment: Review, 32 pages, 12 figures
+
+Abstract:
+Droplet formation has emerged as an essential concept for the spatiotemporal organisation of biomolecules in cells. However, classical descriptions of droplet dynamics based on passive liquid-liquid phase separation cannot capture the complex situation inside cells. This review discusses three distinct aspects that are crucial in cells: (i) biomolecules are diverse and individually complex, implying that cellular droplets possess complex internal behaviour, e.g., in terms of their material properties; (ii) the cellular environment contains many solid-like structures that droplets can wet; (iii) cells are alive and use fuel to drive processes out of equilibrium. We illustrate how these principles control droplet nucleation, growth, position, and count to unveil possible regulatory mechanisms in biological cells and other applications of phase separation.
+
+====================================================================================================
+Paper 60/65
+====================================================================================================
+arXiv ID: 2501.13135v1
+Title: Applications and Challenges of AI and Microscopy in Life Science Research: A Review
+Authors: Himanshu Buckchash, Gyanendra Kumar Verma, Dilip K. Prasad
+Published Date: 2025-01-22
+Primary Category: q-bio.OT
+All Categories: q-bio.OT, cs.AI, physics.med-ph, q-bio.SC
+PDF: https://arxiv.org/pdf/2501.13135v1
+
+Abstract:
+The complexity of human biology and its intricate systems holds immense potential for advancing human health, disease treatment, and scientific discovery. However, traditional manual methods for studying biological interactions are often constrained by the sheer volume and complexity of biological data. Artificial Intelligence (AI), with its proven ability to analyze vast datasets, offers a transformative approach to addressing these challenges. This paper explores the intersection of AI and microscopy in life sciences, emphasizing their potential applications and associated challenges. We provide a detailed review of how various biological systems can benefit from AI, highlighting the types of data and labeling requirements unique to this domain. Particular attention is given to microscopy data, exploring the specific AI techniques required to process and interpret this information. By addressing challenges such as data heterogeneity and annotation scarcity, we outline potential solutions and emerging trends in the field. Written primarily from an AI perspective, this paper aims to serve as a valuable resource for researchers working at the intersection of AI, microscopy, and biology. It summarizes current advancements, key insights, and open problems, fostering an understanding that encourages interdisciplinary collaborations. By offering a comprehensive yet concise synthesis of the field, this paper aspires to catalyze innovation, promote cross-disciplinary engagement, and accelerate the adoption of AI in life science research.
+
+====================================================================================================
+Paper 61/65
+====================================================================================================
+arXiv ID: 2501.05490v1
+Title: Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy
+Authors: Mingyang Chen, Luhong Jin, Xuwei Xuan, Defu Yang, Yun Cheng, Ju Zhang
+Published Date: 2025-01-09
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, cs.AI, eess.IV
+PDF: https://arxiv.org/pdf/2501.05490v1
+
+Abstract:
+Live-cell imaging of multiple subcellular structures is essential for understanding subcellular dynamics. However, the conventional multi-color sequential fluorescence microscopy suffers from significant imaging delays and limited number of subcellular structure separate labeling, resulting in substantial limitations for real-time live-cell research applications. Here, we present the Adaptive Explainable Multi-Structure Network (AEMS-Net), a deep-learning framework that enables simultaneous prediction of two subcellular structures from a single image. The model normalizes staining intensity and prioritizes critical image features by integrating attention mechanisms and brightness adaptation layers. Leveraging the Kolmogorov-Arnold representation theorem, our model decomposes learned features into interpretable univariate functions, enhancing the explainability of complex subcellular morphologies. We demonstrate that AEMS-Net allows real-time recording of interactions between mitochondria and microtubules, requiring only half the conventional sequential-channel imaging procedures. Notably, this approach achieves over 30% improvement in imaging quality compared to traditional deep learning methods, establishing a new paradigm for long-term, interpretable live-cell imaging that advances the ability to explore subcellular dynamics.
+
+====================================================================================================
+Paper 62/65
+====================================================================================================
+arXiv ID: 2412.20570v1
+Title: Voltage laws in nanodomains revealed by asymptotics and simulations of electro-diffusion equations
+Authors: Frédéric Paquin-Lefebvre, Alejandro Barea Moreno, David Holcman
+Published Date: 2024-12-29
+Primary Category: cond-mat.soft
+All Categories: cond-mat.soft, math.AP, q-bio.SC
+PDF: https://arxiv.org/pdf/2412.20570v1
+Comment: 30 pages, 7 figures, 3 tables
+
+Abstract:
+Characterizing the local voltage distribution within nanophysiological domains, driven by ionic currents through membrane channels, is crucial for studying cellular activity in modern biophysics, yet it presents significant experimental and theoretical challenges. Theoretically, the complexity arises from the difficulty of solving electro-diffusion equations in three-dimensional domains. Currently, there are no methods available for obtaining asymptotic computations or approximated solutions of nonlinear equations, and numerically, it is challenging to explore solutions across both small and large spatial scales. In this work, we develop a method to solve the Poisson-Nernst-Planck equations with ionic currents entering and exiting through two narrow, circular window channels located on the boundary. The inflow through the first window is composed of a single cation, while the outflow maintains a constant ionic density satisfying local electro-neutrality conditions. Employing regular expansions and Green's function representations, we derive the ionic profiles and voltage drops in both small and large charge regimes. We explore how local surface curvature and window channels size influence voltage dynamics and validate our theoretical predictions through numerical simulations, assessing the accuracy of our asymptotic computations. These novel relationships between current, voltage, concentrations and geometry can enhance the characterization of physiological behaviors of nanodomains.
+
+====================================================================================================
+Paper 63/65
+====================================================================================================
+arXiv ID: 2412.14726v1
+Title: Towards a mathematical framework for modelling cell fate dynamics
+Authors: Sean T. Vittadello, Léo Diaz, Yujing Liu, Adriana Zanca, Michael P. H. Stumpf
+Published Date: 2024-12-19
+Primary Category: q-bio.SC
+All Categories: q-bio.SC, cond-mat.stat-mech, math.DS, q-bio.CB
+PDF: https://arxiv.org/pdf/2412.14726v1
+Comment: 32 pages
+
+Abstract:
+An adult human body is made up of some 30 to 40 trillion cells, all of which stem from a single fertilized egg cell. The process by which the right cells appear to arrive in their right numbers at the right time at the right place -- development -- is only understood in the roughest of outlines. This process does not happen in isolation: the egg, the embryo, the developing foetus, and the adult organism all interact intricately with their changing environments. Conceptual and, increasingly, mathematical approaches to modelling development have centred around Waddington's concept of an epigenetic landscape. This perspective enables us to talk about the molecular and cellular factors that contribute to cells reaching their terminally differentiated state: their fate. The landscape metaphor is however only a simplification of the complex process of development; it for instance does not consider environmental influences, a context which we argue needs to be explicitly taken into account and from the outset. When delving into the literature, it also quickly becomes clear that there is a lack of consistency and agreement on even fundamental concepts; for example, the precise meaning of what we refer to when talking about a `cell type' or `cell state.' Here we engage with previous theoretical and mathematical approaches to modelling cell fate -- focused on trees, networks, and landscape descriptions -- and argue that they require a level of simplification that can be problematic. We introduce random dynamical systems as one natural alternative. These provide a flexible conceptual and mathematical framework that is free of extraneous assumptions. We develop some of the basic concepts and discuss them in relation to now `classical' depictions of cell fate dynamics, in particular Waddington's landscape.
+
+====================================================================================================
+Paper 64/65
+====================================================================================================
+arXiv ID: 2412.14131v1
+Title: Re-visiting the intracellular pathway of transferrin on board of a mathematical simulation
+Authors: Franco Nieto, Luis S. Mayorga
+Published Date: 2024-12-18
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2412.14131v1
+Comment: Commentary about models and intracellular transport
+
+Abstract:
+Modeling and simulation are transforming all fields of biology. Tools like AlphaFold have revolutionized structural biology, while molecular dynamics simulations provide invaluable insights into the behavior of macromolecules in solution or on membranes. In contrast, we lack effective tools to represent the dynamic behavior of the endomembrane system. Static diagrams that connect organelles with arrows are used to depict transport across space and time but fail to specify the underlying mechanisms. This static representation obscures the dynamism of intracellular traffic, freezing it in an immobilized framework. The intracellular transport of transferrin, a key process for cellular iron delivery, is among the best-characterized trafficking pathways. In this commentary, we revisit this process using a mathematical simulation of the endomembrane system. Our model reproduces many experimental observations and highlights the strong contrast between dynamic simulations and static illustrations. This work underscores the urgent need for a consensus-based minimal functional working model for the endomembrane system and emphasizes the importance of generating more quantitative experimental data -- including precise measurements of organelle size, volume, and transport kinetics -- practices that were more common among cell biologists in past decades.
+
+====================================================================================================
+Paper 65/65
+====================================================================================================
+arXiv ID: 2412.02459v2
+Title: The Underlying Dynamics of Life and Its Evolution: A Prigogine-Inspired Informational Dissipative System
+Authors: Salvatore Chirumbolo, Antonio Vella
+Published Date: 2024-12-03
+Primary Category: q-bio.SC
+All Categories: q-bio.SC
+PDF: https://arxiv.org/pdf/2412.02459v2
+Comment: 27 pages, 12 Figures, 7287 words, 24 refs
+
+Abstract:
+Life is fundamentally a scientific enigma. The interplay between chaos, entropy dynamics, and Prigogine's dissipative systems offers profound insights into the emergence, stabilization, and eventual collapse of far-from-equilibrium systems. This study proposes that, alongside thermodynamic dissipative systems as highlighted by Ilya Prigogine, informational dissipative systems actively contribute to granting inanimate matter properties characteristic of living systems, such as autopoiesis. By examining cyclic entropy flows between water topology (Shannon space) and molecular systems (Boltzmann space), the work emphasizes the pivotal role of disquisotropic entropy, an informational entropy reservoir arising from imperfections in molecular structures. The analysis demonstrates that chaos functions as a stabilizing force, enhancing resilience, adaptability, and longevity by delaying thermodynamic equilibrium. This research connects foundational thermodynamic principles with the emergent behavior of chaotic systems, paving the way for a deeper understanding of complexity in natural and technological contexts. By exploring the relationship between chaos, entropy, and dissipative dynamics, the study advances a paradigm where disorder becomes a mechanism to sustain order, a hallmark of life and complex systems.
+

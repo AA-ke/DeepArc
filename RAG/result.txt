@@ -1,0 +1,9 @@
+
+📈 对比分析 (RAG vs 无RAG, 仅检索成功案例):
+  【答案正确性指标】
+    - Semantic Similarity: RAG 0.926 vs 无RAG 0.910 (差异: +0.016)
+    - BLEU-4: RAG 0.043 vs 无RAG 0.021 (差异: +0.022)
+    - ROUGE-L: RAG 0.434 vs 无RAG 0.381 (差异: +0.053)
+    - Edit Distance Sim: RAG 0.312 vs 无RAG 0.259 (差异: +0.053)
+    - Jaccard: RAG 0.245 vs 无RAG 0.181 (差异: +0.065)
+    - Char Similarity: RAG 0.831 vs 无RAG 0.783 (差异: +0.048)

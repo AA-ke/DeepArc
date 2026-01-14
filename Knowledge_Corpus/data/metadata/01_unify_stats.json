@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-12-02T18:37:36.421935",
+  "total_documents": 4611,
+  "original_count": 6695,
+  "duplicates_removed": 2084,
+  "source_stats": {
+    "PubMed": 626,
+    "PMC": 1853,
+    "arXiv": 3987,
+    "GitHub": 229
+  }
+}
