@@ -1,4 +1,4 @@
-# DeepArc: Autonomous Synthesis of Regulatory Sequence Models
+# 🧬🧱 DeepArc: Autonomous Synthesis of Regulatory Sequence Models
 
 
 **DeepArc** is a hierarchical, knowledge-grounded multi-agent system designed to automate the end-to-end synthesis of deep learning pipelines for regulatory genomics. It addresses the "human-centric bottleneck" in computational biology by transforming days of manual literature review and iterative architecture design into a **5-to-10 minute automated workflow**.
